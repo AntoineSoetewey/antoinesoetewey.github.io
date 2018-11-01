@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
+  links            :
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Antoine_Soetewey"
