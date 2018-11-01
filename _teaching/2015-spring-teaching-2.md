@@ -4,6 +4,8 @@ collection: teaching
 type: "Master level course"
 permalink: /teaching/data-analysis-lstat2110
 venue: "UCLouvain"
-date: "2018 - Present"
+params:
+  orig_date: 2017-09-15
+  update_date: "`r format(Sys.time(), '%d %B, %Y')`"
 location: "UCLouvain, Belgium"
 ---
