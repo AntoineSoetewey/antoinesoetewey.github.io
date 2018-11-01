@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+(test)[https://www.researchgate.net/profile/Antoine_Soetewey]
+
 <h2>
 Research interests</h2>
 My research interests are focused on bio-statistical procedures applied to cancer patients. This encompasses modelling survival analysis to adequately estimate the threshold after which cancer patients can be considered as cured. Another goal of my PhD thesis is to find a proper way to adapt the actuarial pricing of life insurance products depending on the type of cancer and the duration of survival at the time of application. I also like to apply statistics and technology to health and educational issues or for social good, commonly referred as data for good.
