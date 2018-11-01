@@ -4,6 +4,6 @@ collection: teaching
 type: "Bachelor level course"
 permalink: /teaching/multivariate-statistical-analysis-linge1222
 venue: "UCLouvain"
-date: 2018-2019
+date: 2017-2019
 location: "Louvain-la-Neuve, Belgium"
 ---
