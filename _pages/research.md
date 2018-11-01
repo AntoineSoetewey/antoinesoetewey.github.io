@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-(test)[https://www.researchgate.net/profile/Antoine_Soetewey]
+[test](https://www.researchgate.net/profile/Antoine_Soetewey)
 
 <h2>
 Research interests</h2>
