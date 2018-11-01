@@ -21,13 +21,25 @@ Other</h2>
 
 Please fill the contact form below:
 
-<iframe frameborder="0" height="751" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLScgVqcLYiZ4i5AFQB-7c7iwu1ZKkjQGTZiW4U9YZ-ldtzbHdg/viewform?embedded=true" width="640">Loading...</iframe>
-</div>
-<form name="contact-form">
-<div style="max-width: 450px; text-align: center; width: 100%;">
-<div class="contact-form-error-message" id="ContactForm1_contact-form-error-message">
-</div>
-<div class="contact-form-success-message" id="ContactForm1_contact-form-success-message">
-</div>
-</div>
-</form>
+<?php
+return [
+    'subject' => [
+        'prefix' => '[Contact Form]'
+    ],
+    'emails' => [
+        'to'   => '',
+        'from' => ''
+    ],
+    'messages' => [
+        'error'   => 'There was an error sending your message, please try again later.',
+        'success' => 'Your message has been sent successfully.'
+    ],
+    'fields' => [
+        'name'     => 'Name',
+        'email'    => 'Email',
+        'phone'    => 'Phone',
+        'subject'  => 'Subject',
+        'message'  => 'Message',
+        'btn-send' => 'Send'
+    ]
+];
