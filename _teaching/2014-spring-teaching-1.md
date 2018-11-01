@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Multivariate Statistical Analysis - LINGE1222"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Bachelor level course"
+permalink: /teaching/mltivariate-statistical-analysis-linge1222
+venue: "UCLouvain"
+date: 2018-01-01
+location: "Louvain-la-Neuve, Belgium"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
