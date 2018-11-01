@@ -4,6 +4,7 @@ collection: teaching
 type: "Master level course"
 permalink: /teaching/statistics-lespo2102
 venue: "UCLouvain"
-date: 2017-2019
+date: 2017
+date: 2019
 location: "UCLouvain, Belgium"
 ---
