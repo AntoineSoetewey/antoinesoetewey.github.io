@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[test](https://www.antoinesoetewey.com/p/research.html)
+
 Currently, I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium. My research focuses on bio-statistical procedures applied to cancer patients. More information can be found in my research projects. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master's level and I provide training in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (SMCS).
 
 Before this PhD, I worked as a data scientist at Business & Decision and I did two internships; one at Deloitte Luxembourg as an audit intern and one at BNP Paribas as European public affairs intern.
