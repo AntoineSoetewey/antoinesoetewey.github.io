@@ -3,7 +3,7 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     <li><strong>Contact:</strong></li>
-      <li><a title="Contact" href="https://antoinesoetewey.com/contact/"><i class="fas fa-envelope"></i></a></li>
+      <li><a title="Contact" href="https://antoinesoetewey.com/contact/"><i class="fa fa-fw fa-envelope"></i></a></li>
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
@@ -19,7 +19,7 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}" target="_blank"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-      <li><a title="ResearchGate" href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a></li>
+      <li><a title="ResearchGate" href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank"><i class="fa fa-fw fa-researchgate"></i> ResearchGate</a></li>
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" target="_blank"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
