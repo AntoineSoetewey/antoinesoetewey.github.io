@@ -5,5 +5,5 @@ type: "Master level course"
 permalink: /teaching/data-analysis-lstat2110
 venue: "UCLouvain"
 date: 2018-2019
-location: "UCLouvain, Belgium"
+location: "Louvain-la-Neuve, Belgium"
 ---
