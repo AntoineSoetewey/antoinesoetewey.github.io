@@ -159,5 +159,3 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 Available on request
 
 *Last updated: November 2, 2018*
-
-For professional matter, you can also find me on <a href="https://www.linkedin.com/in/antoinesoetewey/en" target="_blank"><i aria-hidden="true" class="fa fa-linkedin-square"></i> LinkedIn</a>.
