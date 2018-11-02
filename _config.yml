@@ -15,7 +15,7 @@ url                      : http://www.antoinesoetewey.com # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AntoineSoetewey/antoinesoetewey.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -59,10 +59,10 @@ yandex_site_verification :
 twitter:
   username               : "antsoet"
 facebook:
-  username               :
+  username               : "antoine.soetewey"
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : /images/profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -70,13 +70,18 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links:
     - "https://twitter.com/antsoet"
+    - "https://www.facebook.com/antoine.soetewey"
+    - "https://www.instagram.com/antsoet/"
     - "https://www.linkedin.com/in/antoinesoetewey"
     - "https://plus.google.com/+AntoineSoetewey"
+    - "https://www.researchgate.net/profile/Antoine_Soetewey"
+    - "https://about.me/antoinesoetewey"
+    - "https://uclouvain.academia.edu/AntoineSoetewey"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-86997981-1"
 
@@ -84,12 +89,12 @@ analytics:
 # Site Author
 author:
   name             : "Antoine Soetewey"
-  avatar           : "profile.png"
+  avatar           : "/image/profile.png"
   bio              : "PhD Student and Teaching Assistant in Statistics at Université catholique de Louvain"
-  location         : "Belgium"
+  location         : "Louvain-la-Neuve, Belgium"
   employer         : "Université catholique de Louvain"
   googlescholar    : 
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -119,6 +124,10 @@ author:
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Antoine_Soetewey"
+    - label: "ResearchGate"
+      icon: "fas fa-link"
+      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
+      
 
 
 # Reading Files
