@@ -11,7 +11,7 @@ Currently, I am a PhD student in statistics at Université catholique de Louvain
 
 Before this PhD, I worked as a data scientist at Business &amp; Decision and I did two internships; one at Deloitte Luxembourg as an audit intern and one at BNP Paribas as European public affairs intern.
 
-Regarding my education, I graduated from KU Leuven with a Master in Economics in 2015 and from Maastricht University with a Master in Econometrics in 2016. You may see&nbsp;<a href="http://www.antoinesoetewey.com/resume/">my CV</a> to have a better overview of my academic and professional background.
+Regarding my education, I graduated from KU Leuven with a Master in Economics in 2015 and from Maastricht University with a Master in Econometrics in 2016. You may see&nbsp;<a href="http://www.antoinesoetewey.com/cv/">my CV</a> to have a better overview of my academic and professional background.
 
 In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world. This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.
 
