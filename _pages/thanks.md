@@ -9,6 +9,5 @@ Your form has been successfully submitted !
 
 I will get back to you as soon as possible.
 
-Best,
-
+Best,<br />
 Antoine Soetewey
