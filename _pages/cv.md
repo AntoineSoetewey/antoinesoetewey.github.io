@@ -152,7 +152,7 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 * <i class="fa fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
 * <i class="fa fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a><br />
-* <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey">ResearchGate</a>
+* <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
 
 ## References
 
