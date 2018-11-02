@@ -122,10 +122,10 @@ author:
   wikipedia        :
   links            :
     - label: "ResearchGate"
-      icon: "ai ai-researchgate"
+      icon: "ai-researchgate:before"
       url: "https://www.researchgate.net/profile/Antoine_Soetewey"
     - label: "ResearchGate"
-      icon: "fa fa-fw fa-chain"
+      icon: "ai-researchgate"
       url: "https://www.researchgate.net/profile/Antoine_Soetewey"
       
 
