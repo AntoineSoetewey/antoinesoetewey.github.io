@@ -156,7 +156,7 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 
 ## References
 
-Available on request.
+Available on request
 
 *Last updated: November 2, 2018*
 
