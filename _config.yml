@@ -89,7 +89,7 @@ analytics:
 # Site Author
 author:
   name             : "Antoine Soetewey"
-  avatar           : "/image/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Student and Teaching Assistant in Statistics at Université catholique de Louvain"
   location         : "Louvain-la-Neuve, Belgium"
   employer         : "Université catholique de Louvain"
