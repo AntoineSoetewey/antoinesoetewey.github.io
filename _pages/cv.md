@@ -111,7 +111,7 @@ Most of the materials for my teaching sessions are built on <a href="https://rma
 
 ### R Package
 
-<a href="https://github.com/AntoineSoetewey/yll" target="_blank">yll</a>: An R package submitted for approval to CRAN to compute the standard years of life lost and the average years of life lost
+<a href="https://github.com/AntoineSoetewey/yll" target="_blank">yll</a>: An R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank">CRAN</a> to compute the standard years of life lost and the average years of life lost
 
 ### GitHub
 
