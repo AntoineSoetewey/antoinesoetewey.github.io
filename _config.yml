@@ -94,7 +94,7 @@ author:
   location         : "Louvain-la-Neuve, Belgium"
   employer         : "UCLouvain"
   googlescholar    : 
-  email            : https://www.antoinesoetewey.com/contact/
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -127,7 +127,12 @@ author:
     - label: "ResearchGate"
       icon: "ai-researchgate"
       url: "https://www.researchgate.net/profile/Antoine_Soetewey"
-      
+    - label: "Contact"
+      icon: <i class="fas fa-envelope"></i>
+      url: "https://www.antoinesoetewey.com/contact/"
+    - label: "Contact"
+      icon: "fa-envelope"
+      url: "https://www.antoinesoetewey.com/contact/"
 
 
 # Reading Files
