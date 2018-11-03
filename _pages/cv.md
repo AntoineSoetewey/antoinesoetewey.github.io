@@ -76,7 +76,7 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 * Augmenting critical insight into intrapersonal and interpersonal skills by a professional management of difficult situations in matches
 * Trainer and evaluator for 30 to 40 incoming umpires each year and peer mentor for 5 to 10 of them by suggesting advice and insight based on personal experiences
 
-## Technical skills
+## Technical Skills
 
 Advanced:
 
@@ -121,11 +121,12 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 
 <a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">A practical guide on asset allocation</a>, based on the book _A Random Walk Down Wall Street_ by Burton G. Malkiel
 
-## Membership
+## Memberships and Affiliations
 
 * Member of the <a href="http://www.rssb.be/" target="_blank">Royal Statistical Society of Belgium (RSSB)</a>
+* Committee member of the tennis <a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">referee's commission for the Belgian tennis association</a>
 
-## Areas of expertise
+## Areas of Expertise
 
 * Statistics
 * Biostatistics
