@@ -121,20 +121,32 @@ author:
   youtube          :
   wikipedia        :
   links            :
-    - label: "ResearchGate"
-      icon: "ai-researchgate:before"
-      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
-    - label: "ResearchGate"
-      icon: "ai-researchgate"
-      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
+#    - label: "ResearchGate"
+#      icon: "ai-researchgate:before"
+#      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
+#    - label: "ResearchGate"
+#      icon: "ai-researchgate"
+#      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
+#    - label: "Contact"
+#      icon: <i class="fas fa-envelope"></i>
+#      url: "https://www.antoinesoetewey.com/contact/"
+#    - label: "Contact"
+#      icon: "fa-envelope"
+#      url: "https://www.antoinesoetewey.com/contact/"
+#    - label: "Contact"
+#      icon: "fas fa-envelope"
+#      url: "https://www.antoinesoetewey.com/contact/"
     - label: "Contact"
-      icon: <i class="fas fa-envelope"></i>
+      icon: "fa fa-fw fa-envelope"
       url: "https://www.antoinesoetewey.com/contact/"
     - label: "Contact"
-      icon: "fa-envelope"
+      icon: "fa fa-fw fa-chain"
       url: "https://www.antoinesoetewey.com/contact/"
     - label: "Contact"
-      icon: "fas fa-envelope"
+      icon: <i class="fa fa-fw fa-chain" aria-hidden="true"></i>
+      url: "https://www.antoinesoetewey.com/contact/"
+    - label: "Contact"
+      icon: <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
       url: "https://www.antoinesoetewey.com/contact/"
 
 
