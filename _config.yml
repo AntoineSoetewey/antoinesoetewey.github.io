@@ -133,6 +133,9 @@ author:
     - label: "Contact"
       icon: "fa-envelope"
       url: "https://www.antoinesoetewey.com/contact/"
+    - label: "Contact"
+      icon: "fas fa-envelope"
+      url: "https://www.antoinesoetewey.com/contact/"
 
 
 # Reading Files
