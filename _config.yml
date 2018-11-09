@@ -120,40 +120,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links            :
-    - label: "ResearchGate"
-      icon: "ai-researchgate:before"
-      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
-    - label: "ResearchGate"
-      icon: "ai-researchgate"
-      url: "https://www.researchgate.net/profile/Antoine_Soetewey"
-    - label: "Contact"
-      icon: <i class="fas fa-envelope"></i>
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: "fa-envelope"
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: "fas fa-envelope"
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: "fas fa-fw fa-envelope"
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: "fa fa-fw fa-chain"
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: <i class="fa fa-fw fa-chain" aria-hidden="true"></i>
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "Contact"
-      icon: <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
-      url: "https://www.antoinesoetewey.com/contact/"
-    - label: "UCLouvain"
-      icon: "fas fa-briefcase"
-      url: ""
 
 
 # Reading Files
