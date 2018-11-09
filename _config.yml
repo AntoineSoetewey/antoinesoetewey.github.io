@@ -151,6 +151,9 @@ author:
     - label: "Contact"
       icon: <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
       url: "https://www.antoinesoetewey.com/contact/"
+    - label: "UCLouvain"
+      icon: "fas fa-briefcase"
+      url: ""
 
 
 # Reading Files
