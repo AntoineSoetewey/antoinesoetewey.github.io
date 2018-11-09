@@ -137,9 +137,12 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 
 For a detailed list of presentations and talks see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/)
 
+<!---
 ## Publications
-
+--->
+<!---
 For a detailed list of publications see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/)
+--->
 
 ## Languages
 
