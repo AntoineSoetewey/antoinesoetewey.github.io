@@ -111,7 +111,7 @@ Most of the materials for my teaching sessions are built on <a href="https://rma
 
 ### R Package
 
-<a href="https://github.com/AntoineSoetewey/yll" target="_blank">yll</a>: An R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank">CRAN</a> to compute the standard years of life lost and the average years of life lost
+<a href="https://github.com/AntoineSoetewey/yll" target="_blank">yll</a>: An R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank">CRAN</a> to compute the standard years of life lost and the average years of life lost.
 
 ### GitHub
 
@@ -119,7 +119,7 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 
 ### Shiny App
 
-<a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">A practical guide on asset allocation</a>, based on the book _A Random Walk Down Wall Street_ by Burton G. Malkiel
+<a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">A practical guide on asset allocation</a>, based on the book _A Random Walk Down Wall Street_ by Burton G. Malkiel.
 
 ## Memberships and Affiliations
 
@@ -141,7 +141,7 @@ For a detailed list of presentations and talks see [www.antoinesoetewey.com/rese
 ## Publications
 --->
 <!---
-For a detailed list of publications see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/)
+For a detailed list of publications see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/).
 --->
 
 ## Languages
