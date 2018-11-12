@@ -5,6 +5,10 @@ permalink: /booklist/
 author_profile: true
 ---
 
+```{r}
+1+1
+```
+
 This is the list of books I’m reading or have read: (in alphabetical order)
 
 <ul>
