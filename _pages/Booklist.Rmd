@@ -1,0 +1,39 @@
+---
+title: "Booklist"
+author: "Antoine Soetewey"
+date: "11/12/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo = FALSE, message = FALSE}
+#install.packages("googlesheets")
+library(googlesheets)
+library(DT)
+```
+
+```{r, echo = FALSE, message = FALSE}
+# get the Booklist sheet
+data <- gs_title("Booklist")
+
+# list worksheets
+#gs_ws_ls(data)
+
+# get the sheet
+data <- gs_read(ss = data, ws = "Sheet1", skip = 0, header = TRUE)
+
+# convert to data.frame
+data <- as.data.frame(data)
+
+# create table
+n <- length(data$Title)
+datatable(data, rownames = FALSE, options = list(
+  pageLength = n,
+  order = list(0, "asc")))
+```
+
+
+
