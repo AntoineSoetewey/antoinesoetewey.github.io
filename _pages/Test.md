@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Test"
+permalink: /test2/
+author_profile: true
+output: github_document
+---
+
 Test
 ================
 
