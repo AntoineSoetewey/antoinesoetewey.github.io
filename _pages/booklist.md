@@ -21,7 +21,7 @@ This is the list of books I’m reading or have read: (in alphabetical order)
 <li><i>Freakonomics</i>, by Steven D. Levitt and Stephen J. Dubner</li>
 <li><i>How Not To Be Wrong</i>, by Jordan Ellenberg</li>
 <li><i>It's Not How Good You Are, It's How Good You Want To Be</i>, by Paul Arden</li>
-<li><i>L'apprentissage de l'Imperfection</i>, by Tal Ben-Shahar</li>
+<li><i>L'Apprentissage de l'Imperfection</i>, by Tal Ben-Shahar</li>
 <li><i>Modern Romance</i>, by Aziz Ansari</li>
 <li><i>Mostly Harmless Econometrics</i>, by Joshua D. Angrist and Jörn-Steffen Pischke</li>
 <li><i>Naked Statistics</i>, by Charles Wheelan</li>
