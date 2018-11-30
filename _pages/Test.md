@@ -5,33 +5,28 @@ permalink: /test2/
 author_profile: true
 ---
 
-GitHub Documents
-----------------
+Booklist
+================
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+This is the list of books Iâm reading or have read: (in alphabetical order)
 
-Including Code
---------------
+<!--html_preserve-->
 
-You can include R code in the document as follows:
+<script type="application/json" data-for="htmlwidget-ee8d6c2e45ac7768f0f6">{"x":{"filter":"none","data":[["A Random Walk Down Wall Street","Antifragile","Big Data","Breaking Vegas","Dear Undercover Economist","Dollars and Sex","Econometric Theory","Elon Musk","Fooled by Randomness","Freakonomics","How Not To Be Wrong","It's Not How Good You Are, It's How Good You Want To Be","L'apprentissage de l'Imperfection","Modern Romance","Mostly Harmless Econometrics","Naked Statistics","Nudge","Outliers","Predictably Irrational","Predictive Analytics","RÃ©flÃ©chissez et Devenez Riche","Risk Savvy","Starting an Online Business for Dummies","Subliminal","Superforecasting","Superfreakonomics","The 4-Hour-Work-Week","The 7 Habits of Highly Effective People","The Black Swan","The Drunkard's Walk","The Everything Store","The Intelligent Investor","The Mathematics of Love","The Original Rules of Tennis","The Signal and the Noise","The Subtle Art of Not Giving a F*ck","Think Like a Freak","Thinking, Fast and Slow","When: The Scientific Secrets of Perfect Timing","Dollars and Sense","Skin in the Game"],["Burton G. Malkiel","Nassim Nicholas Taleb","Viktor Mayer-SchÃ¶nberger and Kenneth Cukier","Ben Mezrich","Tim Harford","Marina Adshade","James Davidson","Ashlee Vance","Nassim Nicholas Taleb","Steven D. Levitt and Stephen J. Dubner","Jordan Ellenberg","Paul Arden","Tal Ben-Shahar","Aziz Ansari","Joshua D. Angrist and JÃ¶rn-Steffen Pischke","Charles Wheelan","Richard H. Thaler and Cass R. Sunstein","Malcolm Gladwell","Dan Ariely","Eric Siegel","Napoleon Hill","Gerd Gigerenzer","Shannon Belew and Joel Elad","Leonard Mlodinow","Philip Tetlock and Dan Gardner","Steven D. Levitt and Stephen J. Dubner","Timothy Ferris","Stephen R. Covey","Nassim Nicholas Taleb","Leonard Mlodinow","Brad Stone","Benjamin Graham","Hannah Fry","The Bodleian Library (Editor)","Nate Silver","Mark Manson","Steven D. Levitt and Stephen J. Dubner","Daniel Kahneman","Daniel H. Pink","Dan Ariely and Jeff Kreisler","Nassim Nicholas Taleb"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Title<\/th>\n      <th>Author(s)<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":41,"order":[0,"asc"],"autoWidth":false,"orderClasses":false,"lengthMenu":[10,25,41,50,100]}},"evals":[],"jsHooks":[]}</script>
+<!--/html_preserve-->
+If the above-mentioned books didn't convince you of reading more, here is a nice infographic with some incentives and fun facts about reading.
 
-``` r
-summary(cars)
-```
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
-Including Plots
----------------
-
-You can also embed plots, for example:
-
-![](Test_files/figure-markdown_github/pressure-1.png)
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: center;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<img alt="How the World Reads" border="0" src="https://feelgoodcontacts.com/blog/blogimages/read1592016.jpg" title="How the World Reads" />
+</td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align: center;">
+Source: www.feelgoodcontacts.com
+</td>
+</tr>
+</tbody>
+</table>
