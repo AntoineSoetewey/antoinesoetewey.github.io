@@ -5,9 +5,6 @@ permalink: /test2/
 author_profile: true
 ---
 
-Test
-================
-
 GitHub Documents
 ----------------
 
