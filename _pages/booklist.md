@@ -1,22 +1,60 @@
-This is the list of books I’m reading or have read: (in alphabetical order)
-
-<!--html_preserve-->
-
-<script type="application/json" data-for="htmlwidget-d770cb57103bbd8e3233">{"x":{"filter":"none","data":[["A Random Walk Down Wall Street","Antifragile","Big Data","Breaking Vegas","Dear Undercover Economist","Dollars and Sex","Econometric Theory","Elon Musk","Fooled by Randomness","Freakonomics","How Not To Be Wrong","It's Not How Good You Are, It's How Good You Want To Be","L'Apprentissage de l'Imperfection","Modern Romance","Mostly Harmless Econometrics","Naked Statistics","Nudge","Outliers","Predictably Irrational","Predictive Analytics","Réfléchissez et Devenez Riche","Risk Savvy","Starting an Online Business for Dummies","Subliminal","Superforecasting","Superfreakonomics","The 4-Hour-Work-Week","The 7 Habits of Highly Effective People","The Black Swan","The Drunkard's Walk","The Everything Store","The Intelligent Investor","The Mathematics of Love","The Original Rules of Tennis","The Signal and the Noise","The Subtle Art of Not Giving a F*ck","Think Like a Freak","Thinking, Fast and Slow","When: The Scientific Secrets of Perfect Timing","Dollars and Sense","Skin in the Game","Thinking in Bets"],["Burton G. Malkiel","Nassim Nicholas Taleb","Viktor Mayer-Schönberger and Kenneth Cukier","Ben Mezrich","Tim Harford","Marina Adshade","James Davidson","Ashlee Vance","Nassim Nicholas Taleb","Steven D. Levitt and Stephen J. Dubner","Jordan Ellenberg","Paul Arden","Tal Ben-Shahar","Aziz Ansari","Joshua D. Angrist and Jörn-Steffen Pischke","Charles Wheelan","Richard H. Thaler and Cass R. Sunstein","Malcolm Gladwell","Dan Ariely","Eric Siegel","Napoleon Hill","Gerd Gigerenzer","Shannon Belew and Joel Elad","Leonard Mlodinow","Philip Tetlock and Dan Gardner","Steven D. Levitt and Stephen J. Dubner","Timothy Ferris","Stephen R. Covey","Nassim Nicholas Taleb","Leonard Mlodinow","Brad Stone","Benjamin Graham","Hannah Fry","The Bodleian Library (Editor)","Nate Silver","Mark Manson","Steven D. Levitt and Stephen J. Dubner","Daniel Kahneman","Daniel H. Pink","Dan Ariely and Jeff Kreisler","Nassim Nicholas Taleb","Annie Duke"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Title<\/th>\n      <th>Author(s)<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":42,"order":[0,"asc"],"autoWidth":true,"orderClasses":false,"lengthMenu":[10,25,42,50,100]}},"evals":[],"jsHooks":[]}</script>
-<!--/html_preserve-->
-If the above-mentioned books didn't convince you of reading more, here is a nice infographic with some incentives and fun facts about reading.
-
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: center;">
-<tbody>
-<tr>
-<td style="text-align: center;">
-<img alt="How the World Reads" border="0" src="https://feelgoodcontacts.com/blog/blogimages/read1592016.jpg" title="How the World Reads" />
-</td>
-</tr>
-<tr>
-<td class="tr-caption" style="text-align: center;">
-Source: www.feelgoodcontacts.com
-</td>
-</tr>
-</tbody>
-</table>
+---
+ layout: archive
+ title: "Booklist"
+ permalink: /booklist/
+ author_profile: true
+ ---
+ 
+ This is the list of books I’m reading or have read: (in alphabetical order)
+ 
+ <ul>
+ <li><i>A Random Walk Down Wall Street</i>, by Burton G. Malkiel, which I used to create <a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">a practical guide on asset allocation</a></li>
+ <li><i>Antifragile</i>, by Nassim Nicholas Taleb</li>
+ <li><i>Big Data</i>, by Viktor Mayer-Schönberger and Kenneth Cukier</li>
+ <li><i>Breaking Vegas</i>, by Ben Mezrich</li>
+ <li><i>Dear Undercover Economist</i>, by Tim Harford</li>
+ <li><i>Dollars and Sense</i>, by Dan Ariely and Jeff Kreisler</li>
+ <li><i>Dollars and Sex</i>, by Marina Adshade</li>
+ <li><i>Econometric Theory</i>, by James Davidson</li>
+ <li><i>Elon Musk</i>, by Ashlee Vance</li>
+ <li><i>Fooled by Randomness</i>, by Nassim Nicholas Taleb</li>
+<li><i>Freakonomics</i>, by Steven D. Levitt and Stephen J. Dubner</li>
+<li><i>How Not To Be Wrong</i>, by Jordan Ellenberg</li>
+<li><i>It's Not How Good You Are, It's How Good You Want To Be</i>, by Paul Arden</li>
+<li><i>L'apprentissage de l'Imperfection</i>, by Tal Ben-Shahar</li>
+<li><i>L'Apprentissage de l'Imperfection</i>, by Tal Ben-Shahar</li>
+<li><i>Modern Romance</i>, by Aziz Ansari</li>
+<li><i>Mostly Harmless Econometrics</i>, by Joshua D. Angrist and Jörn-Steffen Pischke</li>
+<li><i>Naked Statistics</i>, by Charles Wheelan</li>
+ <li><i>Nudge</i>, by Richard H. Thaler and Cass R. Sunstein</li>
+ <li><i>Outliers</i>, by Malcolm Gladwell</li>
+ <li><i>Predictably Irrational</i>, by Dan Ariely</li>
+ <li><i>Predictive Analytics</i>, by Eric Siegel</li>
+ <li><i>Réfléchissez et Devenez Riche</i>, by Napoleon Hill</li>
+ <li><i>Risk Savvy</i>, by Gerd Gigerenzer</li>
+ <li><i>Skin in the Game</i>, by Nassim Nicholas Taleb</li>
+ <li><i>Starting an Online Business for Dummies</i>, by Shannon Belew and Joel Elad</li>
+ <li><i>Subliminal</i>, by Leonard Mlodinow</li>
+ <li><i>Superforecasting</i>, by Philip Tetlock and Dan Gardner</li>
+ <li><i>Superfreakonomics</i>, by Steven D. Levitt and Stephen J. Dubner</li>
+ <li><i>The 4-Hour-Work-Week</i>, by Timothy Ferris</li>
+ <li><i>The 7 Habits of Highly Effective People</i>, by Stephen R. Covey</li>
+ <li><i>The Black Swan</i>, by Nassim Nicholas Taleb</li>
+ <li><i>The Drunkard's Walk</i>, by Leonard Mlodinow</li>
+ <li><i>The Everything Store</i>, by Brad Stone</li>
+ <li><i>The Intelligent Investor</i>, by Benjamin Graham</li>
+ <li><i>The Mathematics of Love</i>, by Hannah Fry</li>
+ <li><i>The Original Rules of Tennis</i>, by The Bodleian Library (Editor)</li>
+ <li><i>The Signal and the Noise</i>, by Nate Silver</li>
+ <li><i>The Subtle Art of Not Giving a F*ck</i>, by Mark Manson</li>
+ <li><i>Think Like a Freak</i>, by Steven D. Levitt and Stephen J. Dubner</li>
+ <li><i>Thinking, Fast and Slow</i>, by Daniel Kahneman</li>
+ <li><i>When: The Scientific Secrets of Perfect Timing</i>, by Daniel H. Pink</li>
+ </ul>
+ 
+ If the above-mentioned books didn't convince you of reading more, here is a nice infographic with some incentives and fun facts about reading.
+ 
+ <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: center;"><tbody>
+ <tr><td style="text-align: center;"><img alt="How the World Reads" border="0" src="https://feelgoodcontacts.com/blog/blogimages/read1592016.jpg" title="How the World Reads" /></td></tr>
+ <tr><td class="tr-caption" style="text-align: center;">Source: www.feelgoodcontacts.com</td></tr>
+ </tbody></table>
