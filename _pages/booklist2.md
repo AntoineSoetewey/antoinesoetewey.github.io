@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Booklist"
+permalink: /booklist2/
+author_profile: true
+---
+
 This is the list of books I’m reading or have read: (in alphabetical order)
 
 <!--html_preserve-->
