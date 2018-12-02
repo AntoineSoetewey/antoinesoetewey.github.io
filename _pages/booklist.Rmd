@@ -11,6 +11,10 @@ This is the list of books I’m reading or have read: (in alphabetical order)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r, echo = TRUE, message = FALSE}
+1+1
+```
+
 ```{r, echo = FALSE, message = FALSE}
 #install.packages("googlesheets")
 library(googlesheets)
