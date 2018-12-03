@@ -1,5 +1,9 @@
-test
-================
+---
+layout: archive
+title: "Test"
+permalink: /test/
+author_profile: true
+---
 
 R Markdown
 ----------
