@@ -19,4 +19,4 @@ In my spare time I like to play sports, read nonfiction <a href="http://www.anto
 
 Do not hesitate to <a href="http://www.antoinesoetewey.com/contact/">contact me</a> if you have any questions or inquiries.
 
-- Antoine Soetewey
+--- Antoine Soetewey
