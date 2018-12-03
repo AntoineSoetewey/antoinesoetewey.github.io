@@ -3,9 +3,7 @@ layout: archive
 title: "test"
 permalink: /test/
 author_profile: true
-output:
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
