@@ -47,6 +47,7 @@ author_profile: true
   <li><i>The Signal and the Noise</i>, by Nate Silver</li>
   <li><i>The Subtle Art of Not Giving a F*ck</i>, by Mark Manson</li>
   <li><i>Think Like a Freak</i>, by Steven D. Levitt and Stephen J. Dubner</li>
+  <li><i>Thinking in Bets</i>, by Annie Duke</li>
   <li><i>Thinking, Fast and Slow</i>, by Daniel Kahneman</li>
   <li><i>When: The Scientific Secrets of Perfect Timing</i>, by Daniel H. Pink</li>
   </ul>
