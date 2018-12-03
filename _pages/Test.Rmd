@@ -1,8 +1,8 @@
 ---
-title: "Test"
-author: "Antoine Soetewey"
-date: "12/3/2018"
-output: html_document
+layout: archive
+title: "Test Rmd"
+permalink: /Test2/
+author_profile: true
 ---
 
 ```{r setup, include=FALSE}
