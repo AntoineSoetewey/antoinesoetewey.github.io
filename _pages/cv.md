@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Antoine Soetewey
 PhD Student and Teaching Assistant in Statistics
 
