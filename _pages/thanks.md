@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Thanks"
 permalink: /thanks/
 author_profile: true
