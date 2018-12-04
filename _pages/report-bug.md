@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Report a bug"
 permalink: /report-bug/
 author_profile: true
