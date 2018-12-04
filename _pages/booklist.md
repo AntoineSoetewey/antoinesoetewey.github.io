@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Booklist"
 permalink: /booklist/
 author_profile: true
