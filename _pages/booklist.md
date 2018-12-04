@@ -58,5 +58,3 @@ author_profile: true
   <tr><td style="text-align: center;"><img alt="How the World Reads" border="0" src="https://feelgoodcontacts.com/blog/blogimages/read1592016.jpg" title="How the World Reads" /></td></tr>
   <tr><td class="tr-caption" style="text-align: center;">Source: www.feelgoodcontacts.com</td></tr>
   </tbody></table>
-  
-  {% include booklist.html %}
