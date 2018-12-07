@@ -1,7 +1,7 @@
 ---
 title: 'LSTAT2110 - Analyse des données : TP3'
 author: "[Antoine Soetewey](mailto:antoine.soetewey@uclouvain.be), [Johan Segers](mailto:johan.segers@uclouvain.be) et Baptiste Feraud"
-date: "2018-2019"
+date: 2018-06-12
 output:
   html_document:
     number_sections: yes
