@@ -21,4 +21,4 @@ A list of all the pages found on the site. For you robots out there is an [XML v
 {% capture written_label %}{{ label }}{% endcapture %} {% endif %} {% endunless %} {% for post in collection.docs %} {% unless collection.output == false or collection.label == "posts" %} {% include archive-single.html %} {% endunless %} {% endfor %} {% endfor %}
 
 <h2>Files</h2>
-<a href="http://www.antoinesoetewey.com/files/booklist.html">Books</a>
+<a href="http://www.antoinesoetewey.com/files/booklist.html" target="_blank">Books</a>
