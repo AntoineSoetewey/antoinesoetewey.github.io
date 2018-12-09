@@ -17,6 +17,9 @@ main:
     
 #  - title: "Blog"
 #    url: /blog/
+
+  - title: "Booklist"
+    url: /files/booklist.html
     
   - title: "Contact"
     url: /contact/
