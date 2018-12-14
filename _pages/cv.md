@@ -10,13 +10,13 @@ redirect_from:
 PhD Student and Teaching Assistant in Statistics
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
+<i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
 |
-<i class="fa fa-link"></i> <a href="https://www.antoinesoetewey.com/">Homepage</a>
+<i class="fas fa-link"></i> <a href="https://www.antoinesoetewey.com/">Homepage</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
+<i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a>
+<i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a>
 </div>
 
 
@@ -150,9 +150,9 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
-* <i class="fa fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a><br />
-* <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
+* <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a><br />
+* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
+* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a><br />
+* <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
 
 *Last updated: November 9, 2018*
