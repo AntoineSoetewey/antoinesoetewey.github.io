@@ -3,7 +3,7 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     <li><strong>Contact:</strong></li>
-      <li><a title="Contact" href="https://www.antoinesoetewey.com/contact/"><i class="fa fa-fw fa-envelope"></i></a></li>
+      <li><a title="Contact" href="https://www.antoinesoetewey.com/contact/"><i class="fas fa-envelope"></i></a></li>
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
@@ -23,7 +23,7 @@
     {% if site.author.researchgate %}
       <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}" target="_blank"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
     {% endif %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" target="_blank"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" target="_blank"><i class="fas fa-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
       <li><a title="Report bugs" href="https://www.antoinesoetewey.com/report-bug/"><i class="fas fa-bug"></i> Report bugs</a></li>
   </ul>
   </ul>
