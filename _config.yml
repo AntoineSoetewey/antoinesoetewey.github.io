@@ -92,9 +92,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student and Teaching Assistant in Statistics at UCLouvain"
   location         : "Belgium"
-  employer         : "UCLouvain"
+  employer         : 
+  university       : "UCLouvain"
   googlescholar    : 
-  researchgate     : "Antoine_Soetewey"
+  researchgate     : 
   email            : 
   uri              :
   bitbucket        :

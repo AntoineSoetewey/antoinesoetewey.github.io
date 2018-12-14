@@ -25,6 +25,9 @@
       {% if author.location %}
         <li><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.university %}
+        <li><i class="fas fa-university" aria-hidden="true"></i> {{ author.university }}</li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fas fa-briefcase" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
