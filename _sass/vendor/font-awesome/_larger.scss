@@ -1,13 +1,18 @@
-// Icon Sizes
+// List Icons
 // -------------------------
 
-/* makes the font 33% larger relative to the icon container */
-.#{$fa-css-prefix}-lg {
-  font-size: (4em / 3);
-  line-height: (3em / 4);
-  vertical-align: -15%;
+.#{$fa-css-prefix}-ul {
+  list-style-type: none;
+  margin-left: $fa-li-width * 5/4;
+  padding-left: 0;
+
+  > li { position: relative; }
 }
-.#{$fa-css-prefix}-2x { font-size: 2em; }
-.#{$fa-css-prefix}-3x { font-size: 3em; }
-.#{$fa-css-prefix}-4x { font-size: 4em; }
-.#{$fa-css-prefix}-5x { font-size: 5em; }
+
+.#{$fa-css-prefix}-li {
+  left: -$fa-li-width;
+  position: absolute;
+  text-align: center;
+  width: $fa-li-width;
+  line-height: inherit;
+}
