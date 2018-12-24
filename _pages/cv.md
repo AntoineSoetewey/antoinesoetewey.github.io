@@ -4,6 +4,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /p/resume.html
 ---
 
 # Antoine Soetewey
