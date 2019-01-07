@@ -33,11 +33,13 @@ PhD Student and Teaching Assistant in Statistics
 10. [Languages](#Languages)
 11. [Links](#Links)
 
-## Currently <a name="Currently"></a>
+<a name="Currently"></a>
+## Currently
 
 I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the <a href="https://uclouvain.be/fr/node/9330" target="_blank">Institute of Statistics, Biostatistics and Actuarial Sciences</a>. My research focuses on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master’s level.
 
-## Education <a name="Education"></a>
+<a name="Education"></a>
+## Education
 
 `2017-`
 __Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). My thesis is titled <a href="https://drive.google.com/file/d/1LawBLHDReVJr4-vwjG-_wv3Rax0omZgB/view?usp=sharing" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
