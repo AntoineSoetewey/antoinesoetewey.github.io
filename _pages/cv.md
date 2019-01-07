@@ -23,21 +23,21 @@ PhD Student and Teaching Assistant in Statistics
 ## Table of Contents
 1. [Currently](#Currently)
 2. [Education](#Education)
-3. [Professional Experience](#Professional%201%20Experience)
-4. [Leadership Experience](#Leadership%201%20Experience)
-5. [Technical Skills](#Technical%201%20Skills)
+3. [Professional Experience](#Professional-Experience)
+4. [Leadership Experience](#Leadership-Experience)
+5. [Technical Skills](#Technical-Skills)
 6. [Projects](#Projects)
-7. [Memberships and Affiliations](#Memberships%201%20and%201%20Affiliations)
-8. [Areas of Expertise](#Areas%201%20of%201%20Expertise)
+7. [Memberships and Affiliations](#Memberships-and-Affiliations)
+8. [Areas of Expertise](#Areas-of-Expertise)
 9. [Presentations](#Presentations)
 10. [Languages](#Languages)
-10. [Links](#Links)
+11. [Links](#Links)
 
-## Currently
+## Currently <a name="Currently"></a>
 
 I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the <a href="https://uclouvain.be/fr/node/9330" target="_blank">Institute of Statistics, Biostatistics and Actuarial Sciences</a>. My research focuses on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master’s level.
 
-## Education
+## Education <a name="Education"></a>
 
 `2017-`
 __Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). My thesis is titled <a href="https://drive.google.com/file/d/1LawBLHDReVJr4-vwjG-_wv3Rax0omZgB/view?usp=sharing" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
@@ -54,7 +54,7 @@ __University of Illinois at Urbana-Champaign__ Extended Master in Economics, Fac
 `2010-13`
 __Université catholique de Louvain__ BSc in Economics and Management Sciences, minor in Economics
 
-## Professional Experience
+## Professional Experience <a name="Professional-Experience"></a>
 
 `2017-` 
 __Université catholique de Louvain__ [Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics
@@ -78,7 +78,7 @@ __Deloitte Luxembourg__ Audit Intern
 * Gained hands-on experience and built a wide variety of business knowledge by assisting in external audits for the clients
 * Learned the proven methodologies and high-performance analysis tools to review systems and processes
 
-## Leadership Experience
+## Leadership Experience <a name="Leadership-Experience"></a>
 
 `2015-` 
 __International Tennis Federation__ International Tennis Chair Umpire (White Badge Certification)
@@ -86,7 +86,7 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 * Augmenting critical insight into intrapersonal and interpersonal skills by a professional management of difficult situations in matches
 * Trainer and evaluator for 30 to 40 incoming umpires each year and peer mentor for 5 to 10 of them by suggesting advice and insight based on personal experiences
 
-## Technical Skills
+## Technical Skills <a name="Technical-Skills"></a>
 
 ### Advanced
 
@@ -113,7 +113,7 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 * Bloomberg
 * EViews
 
-## Projects
+## Projects <a name="Projects"></a>
 
 ### R Markdown
 
@@ -131,19 +131,19 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 
 <a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">A practical guide on asset allocation</a>, based on the book _A Random Walk Down Wall Street_ by Burton G. Malkiel.
 
-## Memberships and Affiliations
+## Memberships and Affiliations <a name="Memberships-and-Affiliations"></a>
 
 * Member of the <a href="http://www.rssb.be/" target="_blank">Royal Statistical Society of Belgium (RSSB)</a>
 * Committee member of the tennis <a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">referee's commission for the Belgian tennis association</a>
 
-## Areas of Expertise
+## Areas of Expertise <a name="Areas-of-Expertise"></a>
 
 * Statistics
 * Biostatistics
 * Survival analysis
 * Statistical data analysis
 
-## Presentations
+## Presentations <a name="Presentations"></a>
 
 For a detailed list of presentations and talks see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/).
 
@@ -154,13 +154,13 @@ For a detailed list of presentations and talks see [www.antoinesoetewey.com/rese
 For a detailed list of publications see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/).
 --->
 
-## Languages
+## Languages <a name="Languages"></a>
 
 * French: Native language
 * English: Fluent
 * Dutch: Intermediate
 
-## Links
+## Links <a name="Links"></a>
 
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a><br />
