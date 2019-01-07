@@ -33,8 +33,6 @@ PhD Student and Teaching Assistant in Statistics
 10. [Languages](#Languages)
 10. [Links](#Links)
 
-Leadership Experience
-
 ## Currently
 
 I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the <a href="https://uclouvain.be/fr/node/9330" target="_blank">Institute of Statistics, Biostatistics and Actuarial Sciences</a>. My research focuses on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master’s level.
