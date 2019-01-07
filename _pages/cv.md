@@ -20,6 +20,20 @@ PhD Student and Teaching Assistant in Statistics
 <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a>
 </div>
 
+## Table of Contents
+1. [Currently](#Currently)
+2. [Education](#Education)
+3. [Work Experiences](#Work%201%20Experiences)
+4. [Leadership Experience](#Leadership%201%20Experience)
+5. [Technical Skills](#Technical%201%20Skills)
+6. [Projects](#Projects)
+7. [Memberships and Affiliations](#Memberships%201%20and%201%20Affiliations)
+8. [Areas of Expertise](#Areas%201%20of%201%20Expertise)
+9. [Presentations](#Presentations)
+10. [Languages](#Languages)
+10. [Links](#Links)
+
+Leadership Experience
 
 ## Currently
 
@@ -76,7 +90,7 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 
 ## Technical Skills
 
-Advanced:
+### Advanced
 
 * R (RStudio, R Markdown, Shiny, Sweave)
 * LaTeX
@@ -87,7 +101,7 @@ Advanced:
 * JMP
 * Web development (Blogger, Shopify, WordPress)
   
-Intermediate:
+### Intermediate
 
 * Python
 * SQL
@@ -95,7 +109,7 @@ Intermediate:
 * <a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank">SAS (Certified Base Programmer)</a>
 * QlikView
 
-Beginner:
+### Beginner
 
 * Stata
 * Bloomberg
