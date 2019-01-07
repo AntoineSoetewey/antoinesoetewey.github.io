@@ -23,7 +23,7 @@ PhD Student and Teaching Assistant in Statistics
 ## Table of Contents
 1. [Currently](#Currently)
 2. [Education](#Education)
-3. [Work Experiences](#Work%201%20Experiences)
+3. [Professional Experience](#Professional%201%20Experience)
 4. [Leadership Experience](#Leadership%201%20Experience)
 5. [Technical Skills](#Technical%201%20Skills)
 6. [Projects](#Projects)
@@ -56,7 +56,7 @@ __University of Illinois at Urbana-Champaign__ Extended Master in Economics, Fac
 `2010-13`
 __Université catholique de Louvain__ BSc in Economics and Management Sciences, minor in Economics
 
-## Work Experiences
+## Professional Experience
 
 `2017-` 
 __Université catholique de Louvain__ [Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics
