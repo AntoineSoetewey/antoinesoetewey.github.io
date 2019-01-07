@@ -170,4 +170,4 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 * <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a><br />
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
 
-*Last updated: November 9, 2018*
+*Last updated: January 7, 2019*
