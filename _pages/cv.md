@@ -141,7 +141,7 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 ## Memberships and Affiliations
 
 * Member of the <a href="http://www.rssb.be/" target="_blank">Royal Statistical Society of Belgium (RSSB)</a>
-* Committee member of the tennis <a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">referee's commission for the Belgian tennis association</a>
+* Committee member of the tennis <a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">referee's commission for the Belgian tennis association (AFT)</a>
 
 <a name="areas-expertise"></a>
 ## Areas of Expertise
