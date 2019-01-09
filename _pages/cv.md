@@ -149,6 +149,8 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 * Statistics
 * Biostatistics
 * Survival analysis
+* Cancer mortality
+* Cure models
 * Statistical data analysis
 
 <a name="presentations"></a>
@@ -180,4 +182,4 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 * <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a><br />
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
 
-*Last updated: January 7, 2019*
+*Last updated: January 9, 2019*
