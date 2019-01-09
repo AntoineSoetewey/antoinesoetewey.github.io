@@ -157,6 +157,7 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 For a detailed list of presentations and talks see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/).
 
 <!---
+<a name="publications"></a>
 ## Publications
 --->
 <!---
