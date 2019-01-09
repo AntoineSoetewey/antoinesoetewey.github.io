@@ -36,7 +36,7 @@ PhD Student and Teaching Assistant in Statistics
 <a name="currently"></a>
 ## Currently
 
-I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the <a href="https://uclouvain.be/fr/node/9330" target="_blank">Institute of Statistics, Biostatistics and Actuarial Sciences</a>. My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master’s level.
+I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank">ISBA</a>). My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level and I provide trainings and workshops in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank">SMCS</a>).
 
 <a name="education"></a>
 ## Education
