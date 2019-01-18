@@ -183,4 +183,4 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 * <i class="fab ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank">Google Scholar</a>
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
 
-*Last updated: {{ site.time | date: '%M%Y' }}*
+*Last updated: {{ site.time | date: '%B %d, %Y' }}*
