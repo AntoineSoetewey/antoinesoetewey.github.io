@@ -42,13 +42,13 @@ I am a PhD student in statistics at Université catholique de Louvain (UCLouvain
 ## Education
 
 `2017-`
-__Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). My thesis is titled <a href="https://drive.google.com/file/d/1LawBLHDReVJr4-vwjG-_wv3Rax0omZgB/view?usp=sharing" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
+__Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). My thesis is titled <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
 
 `2015-16`
-__Maastricht University__ MSc in Econometrics and Operations Research, specialisation in Econometrics. My thesis was titled <a href="https://drive.google.com/file/d/1ER6COkePeZVyGiBQoAbDrN2awH7Sjf9C/view?usp=sharing" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
+__Maastricht University__ MSc in Econometrics and Operations Research, specialisation in Econometrics. My thesis was titled <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
 
 `2013-15`
-__Katholieke Universiteit Leuven__ MSc in Economics. My thesis was titled <a href="https://drive.google.com/file/d/1fryeM_dPAfpTDWu8uYbLgkjtVZLYfogO/view?usp=sharing" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
+__Katholieke Universiteit Leuven__ MSc in Economics. My thesis was titled <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
 
 `Aug 2014-Dec 14`
 __University of Illinois at Urbana-Champaign__ Extended Master in Economics, Faculty Exchange
