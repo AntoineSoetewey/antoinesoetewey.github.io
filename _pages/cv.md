@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Antoine Soetewey
-PhD Student and Teaching Assistant in Statistics
+PhD Student and Teaching Assistant in Statistics at UCLouvain
 
 <div id="webaddress">
 <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
