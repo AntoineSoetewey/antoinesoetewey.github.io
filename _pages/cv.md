@@ -42,13 +42,13 @@ I am a PhD student in statistics at Université catholique de Louvain (UCLouvain
 ## Education
 
 `2017-`
-__Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). My thesis is titled <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
+__Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
 
 `2015-16`
-__Maastricht University__ MSc in Econometrics and Operations Research, specialisation in Econometrics. My thesis was titled <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
+__Maastricht University__ MSc in Econometrics and Operations Research, specialisation in Econometrics. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
 
 `2013-15`
-__Katholieke Universiteit Leuven__ MSc in Economics. My thesis was titled <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
+__Katholieke Universiteit Leuven__ MSc in Economics. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
 
 `Aug 2014-Dec 14`
 __University of Illinois at Urbana-Champaign__ Extended Master in Economics, Faculty Exchange
@@ -109,7 +109,7 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 * Python
 * SQL
 * Alteryx
-* <a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank">SAS (Certified Base Programmer)</a>
+* SAS (<a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank">Certified Base Programmer</a>)
 * QlikView
 
 ### Beginner
@@ -131,7 +131,7 @@ Most of the materials for my teaching sessions are built on <a href="https://rma
 
 ### GitHub
 
-My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub account</a> hosts my hobby development projects as well as listing contributions to open source tools. For example, my [personal website](https://www.antoinesoetewey.com/) has been built using GitHub.
+My <a href="https://github.com/AntoineSoetewey" target="_blank">GitHub account</a> hosts my hobby development projects as well as listing contributions to open source tools. For example, my [personal website](https://www.antoinesoetewey.com/) has been built using GitHub.
 
 ### Shiny App
 
@@ -140,8 +140,8 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">personal GitHub 
 <a name="memberships-affiliations"></a>
 ## Memberships and Affiliations
 
-* Member of the <a href="http://www.rssb.be/" target="_blank">Royal Statistical Society of Belgium (RSSB)</a>
-* Committee member of the tennis <a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">referee's commission for the Belgian tennis association (AFT)</a>
+* Member of the Royal Statistical Society of Belgium (<a href="http://www.rssb.be/" target="_blank">RSSB</a>)
+* Committee member of the tennis referee's commission for the Belgian tennis association (<a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">AFT</a>)
 
 <a name="areas-expertise"></a>
 ## Areas of Expertise
