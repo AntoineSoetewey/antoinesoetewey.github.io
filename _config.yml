@@ -69,14 +69,13 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
+    - "https://www.linkedin.com/in/antoinesoetewey"
+    - "https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ"
+    - "https://www.researchgate.net/profile/Antoine_Soetewey"
     - "https://twitter.com/antsoet"
     - "https://www.facebook.com/antoine.soetewey"
     - "https://www.instagram.com/antsoet/"
-    - "https://www.linkedin.com/in/antoinesoetewey"
-    - "https://plus.google.com/+AntoineSoetewey"
-    - "https://www.researchgate.net/profile/Antoine_Soetewey"
     - "https://about.me/antoinesoetewey"
-    - "https://uclouvain.academia.edu/AntoineSoetewey"
 
 
 # Analytics
@@ -105,7 +104,6 @@ author:
   facebook         :
   foursquare       :
   github           : "AntoineSoetewey"
-  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
