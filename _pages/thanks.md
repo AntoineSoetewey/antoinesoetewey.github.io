@@ -11,4 +11,4 @@ I will get back to you as soon as possible.
 Best,
 Antoine Soetewey
 
-[Submit another form](www.antoinesoetewey.com/contact/)
+[Submit another form](https://www.antoinesoetewey.com/contact/)
