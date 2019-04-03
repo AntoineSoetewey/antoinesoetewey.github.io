@@ -22,6 +22,6 @@ Before this PhD, I graduated from KU Leuven with a Master in Economics in 2015 a
 
 In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world.<!--- This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.-->
 
-In my spare time I like to play sports, read nonfiction <a href="http://www.antoinesoetewey.com/files/booklist.html" target="_blank">books</a> on statistics, (behavioral) economics, business / management / investing / personal finance or psychology and learn to <a href="http://www.antoinesoetewey.com/software/">code</a>. I also enjoy traveling and discover new cultures and horizons.
+In my spare time I like to play sports, read nonfiction <a href="http://www.antoinesoetewey.com/files/booklist.html" target="_blank">books</a> on statistics, (behavioral) economics, business / management / investing / personal finance or psychology and learn to <a href="http://www.antoinesoetewey.com/software/">code</a>. I also enjoy traveling around the world.
 
 Do not hesitate to <a href="http://www.antoinesoetewey.com/contact/">contact me</a> if you have any questions or inquiries.
