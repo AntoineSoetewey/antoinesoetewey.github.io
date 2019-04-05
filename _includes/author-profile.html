@@ -116,6 +116,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" target="_blank"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
+      {% if author.impactstory %}
+        <li><a href="{{ author.impactstory }}" target="_blank"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+      {% endif %}
         <!---<li><a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank"><i class="ai ai-researchgate" aria-hidden="true"></i> ResearchGate</a></li>--->
     </ul>
   </div>
