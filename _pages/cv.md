@@ -183,4 +183,6 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank">Google Scholar</a>
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
 
+See also a visual <a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank">timeline of my CV</a>.
+
 *Last updated: {{ site.time | date: '%B %Y' }}*
