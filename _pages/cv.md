@@ -27,10 +27,9 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 4. [Leadership Experience](#leadership-experience)
 5. [Technical Skills](#technical-skills)
 6. [Associations](#associations)
-7. [Areas of Expertise](#areas-expertise)
-8. [Presentations](#presentations)
-9. [Languages](#languages)
-10. [Links](#links)
+7. [Presentations](#presentations)
+8. [Languages](#languages)
+9. [Links](#links)
 
 <a name="currently"></a>
 ## Currently
@@ -122,16 +121,6 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 
 * Member of the Royal Statistical Society of Belgium (<a href="http://www.rssb.be/" target="_blank">RSSB</a>)
 * Committee member of the tennis referee's commission for the Belgian tennis association (<a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">AFT</a>)
-
-<a name="areas-expertise"></a>
-## Areas of Expertise
-
-* Statistics
-* Biostatistics
-* Survival analysis
-* Cancer mortality
-* Cure models
-* Statistical data analysis
 
 <a name="presentations"></a>
 ## Presentations
