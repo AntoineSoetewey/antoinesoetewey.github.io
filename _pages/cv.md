@@ -26,12 +26,11 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 3. [Professional Experience](#professional-experience)
 4. [Leadership Experience](#leadership-experience)
 5. [Technical Skills](#technical-skills)
-6. [Projects](#projects)
-7. [Associations](#associations)
-8. [Areas of Expertise](#areas-expertise)
-9. [Presentations](#presentations)
-10. [Languages](#languages)
-11. [Links](#links)
+6. [Associations](#associations)
+7. [Areas of Expertise](#areas-expertise)
+8. [Presentations](#presentations)
+9. [Languages](#languages)
+10. [Links](#links)
 
 <a name="currently"></a>
 ## Currently
@@ -117,25 +116,6 @@ __International Tennis Federation__ International Tennis Chair Umpire (White Bad
 * Stata
 * Bloomberg
 * EViews
-
-<a name="projects"></a>
-## Projects
-
-### R Markdown
-
-Most of the materials for my teaching sessions are built on <a href="https://rmarkdown.rstudio.com/" target="_blank">R Markdown</a>. This allows to produce high quality documents and make all analyses easily reproducible by students. Teaching materials I produced are available upon request.
-
-### R Package
-
-<a href="https://github.com/AntoineSoetewey/yll" target="_blank">yll</a>: An R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank">CRAN</a> to compute the standard years of life lost and the average years of life lost.
-
-### GitHub
-
-My <a href="https://github.com/AntoineSoetewey" target="_blank">GitHub account</a> hosts my hobby development projects as well as listing contributions to open source tools. For example, my [personal website](https://www.antoinesoetewey.com/) has been built using GitHub.
-
-### Shiny App
-
-<a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">A practical guide on asset allocation</a>, based on the book _A Random Walk Down Wall Street_ by Burton G. Malkiel.
 
 <a name="associations"></a>
 ## Associations
