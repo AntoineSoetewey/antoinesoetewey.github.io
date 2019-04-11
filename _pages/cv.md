@@ -27,7 +27,7 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 4. [Leadership Experience](#leadership-experience)
 5. [Technical Skills](#technical-skills)
 6. [Projects](#projects)
-7. [Memberships and Affiliations](#memberships-affiliations)
+7. [Associations](#associations)
 8. [Areas of Expertise](#areas-expertise)
 9. [Presentations](#presentations)
 10. [Languages](#languages)
@@ -137,8 +137,8 @@ My <a href="https://github.com/AntoineSoetewey" target="_blank">GitHub account</
 
 <a href="https://antoinesoetewey.shinyapps.io/optimal_asset_allocation_shiny_app/" target="_blank">A practical guide on asset allocation</a>, based on the book _A Random Walk Down Wall Street_ by Burton G. Malkiel.
 
-<a name="memberships-affiliations"></a>
-## Memberships and Affiliations
+<a name="associations"></a>
+## Associations
 
 * Member of the Royal Statistical Society of Belgium (<a href="http://www.rssb.be/" target="_blank">RSSB</a>)
 * Committee member of the tennis referee's commission for the Belgian tennis association (<a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">AFT</a>)
