@@ -40,7 +40,7 @@ I am a PhD student in statistics at Université catholique de Louvain (UCLouvain
 ## Education
 
 `2017-`
-__PhD Student in Statistics__ Université catholique de Louvain (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
+__PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a> (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
 
 `2015-16`
 __MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
