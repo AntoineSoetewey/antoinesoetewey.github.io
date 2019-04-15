@@ -40,41 +40,41 @@ I am a PhD student in statistics at Université catholique de Louvain (UCLouvain
 ## Education
 
 `2017-`
-__Université catholique de Louvain__ PhD Student in Statistics (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
+__PhD Student in Statistics__ Université catholique de Louvain (supervisors: Prof. Dr. Catherine Legrand and Prof. Dr. Michel Denuit). Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a>
 
 `2015-16`
-__Maastricht University__ MSc in Econometrics and Operations Research, specialisation in Econometrics. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
+__MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
 
 `2013-15`
-__Katholieke Universiteit Leuven__ MSc in Economics. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
+__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
 
 `Aug 2014-Dec 14`
-__University of Illinois at Urbana-Champaign__ Extended Master in Economics, Faculty Exchange
+__Extended Master in Economics, Faculty Exchange__ University of Illinois at Urbana-Champaign
 
 `2010-13`
-__Université catholique de Louvain__ BSc in Economics and Management Sciences, minor in Economics
+__BSc in Economics and Management Sciences, minor in Economics__ Université catholique de Louvain
 
 <a name="professional-experience"></a>
 ## Professional Experience
 
 `2017-` 
-__Université catholique de Louvain__ [Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics
+__[Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics__ Université catholique de Louvain
 * Assistant for several courses in statistics and probability (Bachelor & Master course level)
 
 `2016-17` 
-__Business & Decision__ Data Scientist
+__Data Scientist__ Business & Decision
 * Gartner-recognized leader in Data & Analytics
 * Following several training focusing on technical and soft skills: R, Tableau, SAS, SQL, Python, data modelling, consulting skills, project management
 * Involved in several projects at the client site, focusing on data science and data visualization
 
 `Apr 2015-Jul 2015` 
-__BNP Paribas__ European Public Affairs Intern
+__European Public Affairs Intern__ BNP Paribas
 * Understood the impact of changes in legislation on a supranational organization
 * Established networks effectively, both internally (business experts and senior management) and externally (European institutions and commercial organizations)
 * Familiarized myself with the economic, legal, political and social factors behind key texts of legislation
 
 `Jan 2015-Mar 2015` 
-__Deloitte Luxembourg__ Audit Intern
+__Audit Intern__ Deloitte Luxembourg
 * Specialized in investment funds and banks
 * Gained hands-on experience and built a wide variety of business knowledge by assisting in external audits for the clients
 * Learned the proven methodologies and high-performance analysis tools to review systems and processes
@@ -83,7 +83,7 @@ __Deloitte Luxembourg__ Audit Intern
 ## Leadership Experience
 
 `2015-` 
-__International Tennis Federation__ International Tennis Chair Umpire (White Badge Certification)
+__International Tennis Chair Umpire (White Badge Certification)__ International Tennis Federation
 * Developing leadership skills, strong communication, and teamwork through experiential learning under the guidance of internationally certified umpires
 * Augmenting critical insight into intrapersonal and interpersonal skills by a professional management of difficult situations in matches
 * Trainer and evaluator for 30 to 40 incoming umpires each year and peer mentor for 5 to 10 of them by suggesting advice and insight based on personal experiences
