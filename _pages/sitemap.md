@@ -23,6 +23,6 @@ A list of all the pages found on the site. For you robots out there is an [XML v
 
 <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf">Abstract PhD thesis in biostatistics</a>
 
-<a href="https://www.antoinesoetewey.com/files/years-of-life-lost-yll.pdf">Abstract PhD thesis in biostatistics</a>
+<a href="https://www.antoinesoetewey.com/files/years-of-life-lost-yll.pdf">YLL package on CRAN</a>
 
-<a href="https://www.antoinesoetewey.com/files/Poster_RSSB_2018.pdf">Abstract PhD thesis in biostatistics</a>
+<a href="https://www.antoinesoetewey.com/files/Poster_RSSB_2018.pdf">Poster RSSB 2018</a>
