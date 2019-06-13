@@ -19,7 +19,7 @@ A list of all the pages found on the site. If you cannot find what you are looki
 
 <a href="https://www.antoinesoetewey.com/research/">Research</a>
 
-<a href="https://www.antoinesoetewey.com/sitemap/">sitemap</a>
+<a href="https://www.antoinesoetewey.com/sitemap/">Sitemap</a>
 
 <a href="https://www.antoinesoetewey.com/software/">Software</a>
 
