@@ -18,7 +18,7 @@ In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.co
 
 Before this PhD, in 2015, I graduated with a Master in Economics from KU Leuven and in 2016 with a Master in Econometrics from Maastricht University. You may see my <a href="http://www.antoinesoetewey.com/cv/">CV</a> to have a better overview of my academic and professional background.
 
-In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world.<!--- This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.-->
+In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world.<!-- This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.-->
 
 In my spare time I like to play sports, read nonfiction <a href="http://www.antoinesoetewey.com/files/booklist.html" target="_blank">books</a> on statistics, (behavioral) economics, business / management / investing / personal finance or psychology and learn to <a href="http://www.antoinesoetewey.com/software/">code</a>. I also enjoy traveling around the world.
 
