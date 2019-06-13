@@ -8,14 +8,35 @@ redirect_from: /p/site-map.html
 A list of all the pages found on the site. If you cannot find what you are looking for, do not hesitate to <a href="http://www.antoinesoetewey.com/contact/">contact me</a>. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
+
+<a href="https://www.antoinesoetewey.com/">About</a>
+
+<a href="https://www.antoinesoetewey.com/contact/">Contact</a>
+
+<a href="https://www.antoinesoetewey.com/cv/">CV</a>
+
+<a href="https://www.antoinesoetewey.com/report-bug/">Report a bug</a>
+
+<a href="https://www.antoinesoetewey.com/research/">Research</a>
+
+<a href="https://www.antoinesoetewey.com/sitemap/">sitemap</a>
+
+<a href="https://www.antoinesoetewey.com/software/">Software</a>
+
+<a href="https://www.antoinesoetewey.com/teaching/">Teaching</a>
+
+<a href="https://www.antoinesoetewey.com/thanks/">Thanks</a>
+
+<!--
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
+-->
 
 <h2>Files</h2>
-<a href="http://www.antoinesoetewey.com/files/booklist.html">Booklist</a>
+<a href="https://www.antoinesoetewey.com/files/booklist.html">Booklist</a>
 
-<a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html">CV timeline</a>
+<a href="https://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html">CV timeline</a>
 
 <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf">Master thesis in Economics</a>
 
