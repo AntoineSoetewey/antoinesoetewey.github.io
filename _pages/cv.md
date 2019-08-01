@@ -67,13 +67,13 @@ __Data Scientist__ Business & Decision
 * Following several training focusing on technical and soft skills: R, Tableau, SAS, SQL, Python, data modelling, consulting skills, project management
 * Involved in several projects at the client site, focusing on data science and data visualization
 
-`Apr 2015-Jul 2015` 
+`Apr 2015-Jul 15` 
 __European Public Affairs Intern__ BNP Paribas
 * Understood the impact of changes in legislation on a supranational organization
 * Established networks effectively, both internally (business experts and senior management) and externally (European institutions and commercial organizations)
 * Familiarized myself with the economic, legal, political and social factors behind key texts of legislation
 
-`Jan 2015-Mar 2015` 
+`Jan 2015-Mar 15` 
 __Audit Intern__ Deloitte Luxembourg
 * Specialized in investment funds and banks
 * Gained hands-on experience and built a wide variety of business knowledge by assisting in external audits for the clients
