@@ -155,3 +155,5 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 See also a visual <a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank">timeline of my CV</a> made with R.
 
 *Last updated: {{ site.time | date: '%B %Y' }}*
+
+<!-- <embed src="https://username.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" /> -->
