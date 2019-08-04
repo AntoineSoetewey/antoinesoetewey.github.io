@@ -15,9 +15,9 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 |
 <i class="fas fa-link"></i> <a href="https://www.antoinesoetewey.com/">Homepage</a>
 |
-<i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
+<i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener">antoinesoetewey</a>
 |
-<i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a>
+<i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">AntoineSoetewey</a>
 </div>
 
 ## Table of Contents
@@ -34,19 +34,19 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 <a name="currently"></a>
 ## Currently
 
-I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank">ISBA</a>). My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level and I provide trainings and workshops in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank">SMCS</a>).
+I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank" rel="noopener">ISBA</a>). My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level and I provide trainings and workshops in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
 
 <a name="education"></a>
 ## Education
 
 `2017-`
-__PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a> (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
+__PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank" rel="noopener">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a> (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
 
 `2015-16`
-__MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank">978-3659660801</a>
+__MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank" rel="noopener">978-3659660801</a>
 
 `2013-15`
-__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
+__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
 
 `Aug 2014-Dec 14`
 __Extended Master in Economics, Faculty Exchange__ University of Illinois at Urbana-Champaign
@@ -95,7 +95,7 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 
 * R (RStudio, R Markdown, Shiny, Sweave)
 * LaTeX
-* <a href="https://github.com/AntoineSoetewey" target="_blank">GitHub</a>
+* <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub</a>
 * Excel
 * HTML and CSS
 * Tableau Desktop
@@ -107,7 +107,7 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 * Python
 * SQL
 * Alteryx
-* SAS (<a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank">Certified Base Programmer</a>)
+* SAS (<a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank" rel="noopener">Certified Base Programmer</a>)
 * QlikView
 
 ### Beginner
@@ -119,8 +119,8 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 <a name="associations"></a>
 ## Associations
 
-* Member of the Royal Statistical Society of Belgium (<a href="http://www.rssb.be/" target="_blank">RSSB</a>)
-* Committee member of the tennis referee's commission for the Belgian tennis association (<a href="http://www.aft-brabant.be/Comite.aspx" target="_blank">AFT</a>)
+* Member of the Royal Statistical Society of Belgium (<a href="http://www.rssb.be/" target="_blank" rel="noopener">RSSB</a>)
+* Committee member of the tennis referee's commission for the Belgian tennis association (<a href="http://www.aft-brabant.be/Comite.aspx" target="_blank" rel="noopener">AFT</a>)
 
 <a name="presentations"></a>
 ## Presentations
@@ -147,12 +147,12 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a><br />
-* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank">antoinesoetewey</a>
-* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank">AntoineSoetewey</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank">Google Scholar</a>
-* <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank">ResearchGate</a>
+* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener">antoinesoetewey</a>
+* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">AntoineSoetewey</a><br />
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+* <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener">ResearchGate</a>
 
-See also a visual <a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank">timeline of my CV</a> made with R.
+See also a visual <a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">timeline of my CV</a> made with R.
 
 *Last updated: {{ site.time | date: '%B %Y' }}*
 
