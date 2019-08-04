@@ -33,7 +33,7 @@
       {% endif %}
         <li><a href="https://www.antoinesoetewey.com/contact/"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</a></li>
       {% if author.uri %}
-        <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+        <li><a href="{{ author.uri }}" target="_blank" rel="noopener" rel="noopener" rel="noopener"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}" target="_blank"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
