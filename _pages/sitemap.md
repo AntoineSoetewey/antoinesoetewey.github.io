@@ -27,12 +27,6 @@ A list of all the pages found on the site. If you cannot find what you are looki
 
 <a href="https://www.antoinesoetewey.com/thanks/">Thanks</a>
 
-<!--
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
 <h2>Files</h2>
 <a href="https://www.antoinesoetewey.com/files/booklist.html">Booklist</a>
 
