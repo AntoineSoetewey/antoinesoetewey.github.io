@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "antsoet"
+  username               : # "antsoet"
 facebook:
   username               : "antoine.soetewey"
   app_id                 :
@@ -73,7 +73,6 @@ social:
     - "https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ"
     - "https://www.researchgate.net/profile/Antoine_Soetewey"
     - "https://www.instagram.com/antsoet/"
-    - "https://about.me/antoinesoetewey"
 
 
 # Analytics
