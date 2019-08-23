@@ -16,7 +16,7 @@ Currently, I am a PhD student in statistics at Université catholique de Louvain
 
 In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level. I also provide trainings and workshops in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
 
-Before this PhD, in 2015, I graduated with a Master in Economics from KU Leuven and in 2016 with a Master in Econometrics from Maastricht University. You may see my <a href="http://www.antoinesoetewey.com/cv/">CV</a> to have a better overview of my academic and professional background.
+Before this PhD, I graduated in 2015 with a Master in Economics from KU Leuven and in 2016 with a Master in Econometrics from Maastricht University. You may see my <a href="http://www.antoinesoetewey.com/cv/">CV</a> to have a better overview of my academic and professional background.
 
 In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world.<!-- This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.-->
 
