@@ -147,8 +147,8 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a><br />
-* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener">antoinesoetewey</a>
-* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">AntoineSoetewey</a><br />
+* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener">LinkedIn</a>
+* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub</a><br />
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener">ResearchGate</a>
 
