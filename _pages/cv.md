@@ -46,7 +46,7 @@ __PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href
 __MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank" rel="noopener">978-3659660801</a>
 
 `2013-15`
-__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Dr. Jo Swinnen)
+__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Johan Swinnen)
 
 `Aug 2014-Dec 14`
 __Extended Master in Economics, Faculty Exchange__ University of Illinois at Urbana-Champaign
