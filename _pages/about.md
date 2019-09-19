@@ -14,7 +14,7 @@ redirect_from:
 
 Currently, I am a PhD student in statistics at Université catholique de Louvain (UCLouvain, Belgium) at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank" rel="noopener">ISBA</a>), under the supervision of Prof. C. Legrand and Prof. M. Denuit. My research interests focus on survival analysis and bio-statistical procedures applied to cancer patients. More information can be found in my <a href="http://www.antoinesoetewey.com/research/">research projects</a>.
 
-In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level. I also provide trainings and workshops in statistics and R programming as part of UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
+In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level. I also provide trainings and workshops in statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
 
 Before this PhD, I graduated in 2015 with a Master in Economics from KU Leuven and in 2016 with a Master in Econometrics from Maastricht University. You may see my <a href="http://www.antoinesoetewey.com/cv/">CV</a> to have a better overview of my academic and professional background.
 
