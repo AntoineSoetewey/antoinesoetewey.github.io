@@ -64,7 +64,7 @@ __[Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics_
 `2016-17` 
 __Data Scientist__ Business & Decision
 * Gartner-recognized leader in Data & Analytics
-* Following several training focusing on technical and soft skills: R, Tableau, SAS, SQL, Python, data modelling, consulting skills, project management
+* Followed several trainings focusing on technical and soft skills: R, Tableau, SAS, SQL, Python, data modelling, consulting skills, project management
 * Involved in several projects at the client site, focusing on data science and data visualization
 
 `Apr 2015-Jul 15` 
