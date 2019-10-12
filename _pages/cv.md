@@ -110,12 +110,6 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 * SAS (<a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank" rel="noopener">Certified Base Programmer</a>)
 * QlikView
 
-### Beginner
-
-* Stata
-* Bloomberg
-* EViews
-
 <a name="associations"></a>
 ## Associations
 
