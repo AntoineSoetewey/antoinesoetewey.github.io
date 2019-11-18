@@ -12,13 +12,6 @@ redirect_from:
   - /booklist/
 ---
 
-<button id="theme-toggle" onclick="modeSwitcher()"></button>
-
-const theme = localStorage.getItem('theme');
-	if (theme === "dark") {
-		document.documentElement.setAttribute('data-theme', 'dark');
-	}
-
 Currently, I am a PhD student in statistics at Université catholique de Louvain (UCLouvain, Belgium) at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank" rel="noopener">ISBA</a>), under the supervision of Prof. C. Legrand and Prof. M. Denuit. My research interests focus on survival analysis and bio-statistical procedures applied to cancer patients. More information can be found in my <a href="http://www.antoinesoetewey.com/research/">research projects</a>.
 
 In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level. I also provide trainings and workshops in statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
@@ -30,32 +23,3 @@ In May 2015, I became an international tennis chair umpire (White Badge certific
 In my spare time I like to play sports, read nonfiction <a href="http://www.antoinesoetewey.com/files/booklist.html" target="_blank" rel="noopener">books</a> on statistics, (behavioral) economics, business / management / investing / personal finance or psychology and learn to <a href="http://www.antoinesoetewey.com/software/">code</a>. I also enjoy traveling around the globe.
 
 Do not hesitate to <a href="http://www.antoinesoetewey.com/contact/">contact me</a> if you have any questions or inquiries.
-
-const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
-
-if (theme === "dark") {
-	document.getElementById("theme-toggle").innerHTML = "Light Mode";
-} else if (theme === "light") {
-	document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-} else if  (userPrefers === "dark") {
-	document.documentElement.setAttribute('data-theme', 'dark');
-	window.localStorage.setItem('theme', 'dark');
-	document.getElementById("theme-toggle").innerHTML = "Light Mode";
-} else {
-	document.documentElement.setAttribute('data-theme', 'light');
-	window.localStorage.setItem('theme', 'light');
-	document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-}
-
-function modeSwitcher() {
-	let currentMode = document.documentElement.getAttribute('data-theme');
-	if (currentMode === "dark") {
-		document.documentElement.setAttribute('data-theme', 'light');
-		window.localStorage.setItem('theme', 'light');
-		document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-	} else {
-		document.documentElement.setAttribute('data-theme', 'dark');
-		window.localStorage.setItem('theme', 'dark');
-		document.getElementById("theme-toggle").innerHTML = "Light Mode";
-	}
-}
