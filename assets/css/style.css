@@ -14,12 +14,6 @@ html, html[data-theme="light"], {
     --main-text-color: hsl(0, 10%, 80%);
   }
 
-  @media (prefers-color-scheme: dark) {
-    html {
-      content: "dark";
-    }
-}
-
 @media (prefers-color-scheme: dark) {
   html {
     content: "dark";
