@@ -4,9 +4,9 @@ permalink: /thanks/
 author_profile: true
 ---
 
-<script>
 <button id="theme-toggle" onclick="modeSwitcher()"></button>
 
+<script>
 const theme = localStorage.getItem('theme');
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'dark');
