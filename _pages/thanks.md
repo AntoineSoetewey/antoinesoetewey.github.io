@@ -4,12 +4,14 @@ permalink: /thanks/
 author_profile: true
 ---
 
+<script>
 <button id="theme-toggle" onclick="modeSwitcher()"></button>
 
 const theme = localStorage.getItem('theme');
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'dark');
 	}
+</script>
 
 Your form has been successfully submitted !
 
@@ -21,6 +23,7 @@ Antoine Soetewey
 
 [Submit another form](https://www.antoinesoetewey.com/contact/)
 
+<script>
 const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
 
 if (theme === "dark") {
@@ -49,3 +52,4 @@ function modeSwitcher() {
 		document.getElementById("theme-toggle").innerHTML = "Light Mode";
 	}
 }
+</script>
