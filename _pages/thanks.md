@@ -1,10 +1,10 @@
-<button id="theme-toggle" onclick="modeSwitcher()"></button>
-
 ---
 title: "Thanks"
 permalink: /thanks/
 author_profile: true
 ---
+
+<button id="theme-toggle" onclick="modeSwitcher()"></button>
 
 <script>
 const theme = localStorage.getItem('theme');
