@@ -22,14 +22,14 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 
 ## Table of Contents
 1. [Currently](#currently)
-2. [Education](#education)
-3. [Professional Experience](#professional-experience)
-4. [Leadership Experience](#leadership-experience)
-5. [Technical Skills](#technical-skills)
-6. [Associations](#associations)
-7. [Presentations](#presentations)
-8. [Languages](#languages)
-9. [Links](#links)
+1. [Education](#education)
+1. [Professional Experience](#professional-experience)
+1. [Leadership Experience](#leadership-experience)
+1. [Technical Skills](#technical-skills)
+1. [Associations](#associations)
+1. [Presentations](#presentations)
+1. [Languages](#languages)
+1. [Links](#links)
 
 <a name="currently"></a>
 ## Currently
@@ -60,6 +60,10 @@ __BSc in Economics and Management Sciences, minor in Economics__ Université cat
 `2017-` 
 __[Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics__ Université catholique de Louvain
 * Assistant for several courses in statistics and probability (Bachelor & Master course level)
+
+`2017-` 
+__Private Tutor in Statistics and R__
+* See my profiles and testimonials from past students on <a href="https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-econometrie-universitaires.html" target="_blank" rel="noopener">Superprof</a> and <a href="https://listminut.be/fr/listworkers/63076-Antoine-S" target="_blank" rel="noopener">ListMinut</a>
 
 `2016-17` 
 __Data Scientist__ Business & Decision
