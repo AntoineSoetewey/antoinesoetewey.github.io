@@ -48,7 +48,7 @@ __MSc in Econometrics and Operations Research, specialisation in Econometrics__ 
 `2013-15`
 __MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Jo Swinnen)
 
-`Aug 2014-Dec 14`
+`Aug-Dec 2014`
 __Extended Master in Economics, Faculty Exchange__ University of Illinois at Urbana-Champaign
 
 `2010-13`
@@ -71,13 +71,13 @@ __Data Scientist__ Business & Decision
 * Followed several trainings focusing on technical and soft skills: R, Tableau, SAS, SQL, Python, data modelling, consulting skills, project management
 * Involved in several projects at the client site, focusing on data science and data visualization
 
-`Apr 2015-Jul 15` 
+`Apr-Jul 2015` 
 __European Public Affairs Intern__ BNP Paribas
 * Understood the impact of changes in legislation on a supranational organization
 * Established networks effectively, both internally (business experts and senior management) and externally (European institutions and commercial organizations)
 * Familiarized myself with the economic, legal, political and social factors behind key texts of legislation
 
-`Jan 2015-Mar 15` 
+`Jan-Mar 2015` 
 __Audit Intern__ Deloitte Luxembourg
 * Specialized in investment funds and banks
 * Gained hands-on experience and built a wide variety of business knowledge by assisting in external audits for the clients
