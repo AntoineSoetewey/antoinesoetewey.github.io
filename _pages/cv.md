@@ -61,10 +61,6 @@ __BSc in Economics and Management Sciences, minor in Economics__ Université cat
 __[Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics__ Université catholique de Louvain
 * Assistant for several courses in statistics and probability (Bachelor & Master course level)
 
-`2017-` 
-__Private Tutor in Statistics and R__
-* See my profiles and testimonials from past students on <a href="https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-econometrie-universitaires.html" target="_blank" rel="noopener">Superprof</a> and <a href="https://listminut.be/fr/listworkers/63076-Antoine-S" target="_blank" rel="noopener">ListMinut</a>
-
 `2016-17` 
 __Data Scientist__ Business & Decision
 * Gartner-recognized leader in Data & Analytics
@@ -84,7 +80,11 @@ __Audit Intern__ Deloitte Luxembourg
 * Learned the proven methodologies and high-performance analysis tools to review systems and processes
 
 <a name="leadership-experience"></a>
-## Leadership Experience
+## Volunteer Experience
+
+`2017-` 
+__Private Tutor in Statistics and R__
+* See my profiles and testimonials from past students on <a href="https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-econometrie-universitaires.html" target="_blank" rel="noopener">Superprof</a> and <a href="https://listminut.be/fr/listworkers/63076-Antoine-S" target="_blank" rel="noopener">ListMinut</a>
 
 `2015-` 
 __International Tennis Chair Umpire (White Badge Certification)__ International Tennis Federation
