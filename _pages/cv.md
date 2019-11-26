@@ -24,7 +24,7 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 1. [Currently](#currently)
 1. [Education](#education)
 1. [Professional Experience](#professional-experience)
-1. [Leadership Experience](#leadership-experience)
+1. [Volunteer Experience](#volunteer-experience)
 1. [Technical Skills](#technical-skills)
 1. [Associations](#associations)
 1. [Presentations](#presentations)
@@ -79,7 +79,7 @@ __Audit Intern__ Deloitte Luxembourg
 * Gained hands-on experience and built a wide variety of business knowledge by assisting in external audits for the clients
 * Learned the proven methodologies and high-performance analysis tools to review systems and processes
 
-<a name="leadership-experience"></a>
+<a name="volunteer-experience"></a>
 ## Volunteer Experience
 
 `2019-` 
