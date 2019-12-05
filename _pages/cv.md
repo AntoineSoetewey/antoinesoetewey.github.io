@@ -98,13 +98,14 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 ### Advanced
 
 * R (RStudio, R Markdown, Shiny, Sweave)
-* LaTeX
 * <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub</a>
 * Excel
-* HTML and CSS
-* Tableau Desktop
+* SPSS
 * JMP
+* Tableau Desktop
+* LaTeX
 * Web development (Blogger, Shopify, WordPress)
+* HTML and CSS
   
 ### Intermediate
 
