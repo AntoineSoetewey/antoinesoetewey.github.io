@@ -35,8 +35,6 @@ A list of all the pages found on the site. If you cannot find what you are looki
 
 <a href="https://www.antoinesoetewey.com/files/booklist.html">Booklist</a>
 
-<a href="https://antoinesoetewey.shinyapps.io/correlogram/" target="_blank" rel="noopener">Correlogram</a>
-
 <a href="https://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html">CV timeline</a>
 
 <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">Master thesis in Econometrics</a>
@@ -46,6 +44,10 @@ A list of all the pages found on the site. If you cannot find what you are looki
 <a href="https://www.antoinesoetewey.com/files/Poster_RSSB_2018.pdf">Poster RSSB 2018</a>
 
 <a href="https://antoinesoetewey.shinyapps.io/statistics-101/" target="_blank" rel="noopener">Statistics 101</a>
+
+<a href="https://antoinesoetewey.shinyapps.io/statistics-201/" target="_blank" rel="noopener">Statistics 201</a>
+
+<a href="https://antoinesoetewey.shinyapps.io/statistics-202/" target="_blank" rel="noopener">Statistics 202</a>
 
 <a href="https://antoinesoetewey.shinyapps.io/word-cloud/" target="_blank" rel="noopener">Word cloud</a>
 
