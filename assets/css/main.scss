@@ -43,6 +43,10 @@
 //   --text-color: hsl(0, 10%, 80%);
 // }
 
+html, html[data-theme="light"], {
+  filter: invert(0%);
+}
+
 html[data-theme="dark"] {
   background-color: #171717 !important;
 }
