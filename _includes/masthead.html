@@ -13,6 +13,7 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
+            <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="fas fa-adjust">Mode2</a>
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="fas fa-adjust">Mode1</a>
