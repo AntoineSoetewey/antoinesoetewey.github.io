@@ -1,4 +1,10 @@
 <script>
+
+const theme = localStorage.getItem('theme');
+	if (theme === "dark") {
+		document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    
     var theFuck = getComputedStyle(document.documentElement).getPropertyValue('content');	
     
     if (theme === "dark") {
