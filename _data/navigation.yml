@@ -20,9 +20,3 @@ main:
     
   - title: "Contact"
     url: /contact/
-
-  # - title: "Mode"
-  #   url: <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button">Mode</a>
-
-  # - title: "mode"
-  #   url: <i class="fas fa-adjust"></i>
