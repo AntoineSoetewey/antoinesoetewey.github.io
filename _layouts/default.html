@@ -7,6 +7,14 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+
+      <script>
+          const theme = localStorage.getItem('theme');
+            if (theme === "dark") {
+              document.documentElement.setAttribute('data-theme', 'dark');
+            }
+      </script>
+
     {% include head.html %}
     {% include head/custom.html %}
 
