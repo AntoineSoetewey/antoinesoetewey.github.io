@@ -31,46 +31,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// html, html[data-theme="light"], {
-//   --text-color: hsl(0, 0%, 35%);
-//   --background-color: hsl(0, 5%, 95%);
-//   --text-color: hsl(0, 0%, 0%);
-// }
-
-// html[data-theme="dark"] {
-//   --text-color: hsl(0, 0%, 60%);
-//   --background-color: hsl(0, 0%, 10%);
-//   --text-color: hsl(0, 10%, 80%);
-// }
-
 html, html[data-theme="light"], {
-  filter: invert(0%) !important;
+  --text-color: mix(#000, $gray, 40%);
+  --background-color: #fff;
 }
-
-// html[data-theme="dark"] {
-//   background-color: #171717 !important;
-// }
 
 html[data-theme="dark"] {
-  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%) !important;
-  -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%) !important;
-  // filter: invert(100%) !important;
+  --background-color: hsl(0, 0%, 10%);
+  --text-color: hsl(0, 10%, 80%);
 }
-// body {
-//   background-color: #FFF !important;
-// }
-// img,
-// video,
-// body * [style*="background-image"] {
-//   filter: hue-rotate(180deg) contrast(100%) invert(100%);
-//   -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
-// }
-
-// @media (prefers-color-scheme: dark) {
-  // html {
-  //   content: "dark";
-  // }
-// }
 
 @media (prefers-color-scheme: dark) {
   img {
