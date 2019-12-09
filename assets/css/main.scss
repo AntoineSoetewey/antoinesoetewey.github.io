@@ -44,7 +44,7 @@
 // }
 
 html, html[data-theme="light"], {
-  filter: invert(0%);
+  filter: invert(0%) !important;
 }
 
 // html[data-theme="dark"] {
@@ -54,7 +54,7 @@ html, html[data-theme="light"], {
 html[data-theme="dark"] {
   // filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
   // -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
-  filter: invert(100%);
+  filter: invert(100%) !important;
 }
 // body {
 //   background-color: #FFF !important;
