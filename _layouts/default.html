@@ -9,13 +9,14 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <div class="button-container">
+        <a id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
+    </div>
+
   </head>
 
   <body>
-
-      <div class="button-container">
-          <a id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
-        </div>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
