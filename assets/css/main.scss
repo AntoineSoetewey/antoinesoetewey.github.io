@@ -52,9 +52,9 @@ html, html[data-theme="light"], {
 // }
 
 html[data-theme="dark"] {
-  // filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
-  // -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
-  filter: invert(100%) !important;
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%) !important;
+  -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%) !important;
+  // filter: invert(100%) !important;
 }
 // body {
 //   background-color: #FFF !important;
