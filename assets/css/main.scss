@@ -3,7 +3,7 @@
 
 html, html[data-theme="light"], {
   --light-text-color: hsl(0, 0%, 35%);
-  --main-background-color: #fff;
+  --main-background-color: mix(#000, #7a8288, 40%);
   --main-text-color: $text-color;
 }
 
