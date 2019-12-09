@@ -1,11 +1,11 @@
 ---
 ---
 
-@media (prefers-color-scheme: dark) {
-  html {
-    content: "dark";
+  @media (prefers-color-scheme: dark) {
+    html {
+      content: "dark";
+    }
   }
-}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -38,12 +38,12 @@
 @import "print";
 
 html, html[data-theme="light"], {
-  background-color: var(--main-background-color);
+  --background-color: var(--main-background-color);
   --text-color: hsl(0, 0%, 0%);
 }
 
 html[data-theme="dark"] {
-  background-color: var(--main-background-color);
+  --background-color: var(--main-background-color);
   --text-color: hsl(0, 10%, 80%);
 }
 
