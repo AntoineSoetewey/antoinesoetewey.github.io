@@ -32,13 +32,13 @@
 @import "print";
 
 html, html[data-theme="light"], {
-  --text-color: mix(#000, $gray, 40%);
-  --background-color: #fff;
+  --text-color: mix(#000, $gray, 40%) !important;
+  --background-color: #fff !important;
 }
 
 html[data-theme="dark"] {
-  --background-color: hsl(0, 0%, 10%);
-  --text-color: hsl(0, 10%, 80%);
+  --background-color: hsl(0, 0%, 10%) !important;
+  --text-color: hsl(0, 10%, 80%) !important;
 }
 
 @media (prefers-color-scheme: dark) {
