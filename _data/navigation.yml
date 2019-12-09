@@ -21,10 +21,5 @@ main:
   - title: "Contact"
     url: /contact/
 
-    <div class="mode-switcher">
-    <a href="#" id="theme-toggle" onclick="modeSwitcher()"></a>
-  </div>
-
-  <div class="button-container">
-          <a id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
-        </div>
+  - title: "Mode"
+    url: <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
