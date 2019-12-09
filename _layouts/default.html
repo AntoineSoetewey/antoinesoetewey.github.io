@@ -13,6 +13,10 @@ layout: compress
 
   <body>
 
+      <div class="button-container">
+          <a id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
+        </div>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -27,5 +31,7 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script src="/assets/scripts/mode-switcher.js"></script>
+    
   </body>
 </html>
