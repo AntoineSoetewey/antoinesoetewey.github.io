@@ -22,4 +22,5 @@ main:
     url: /contact/
 
   - title: "Mode"
-    url: <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
+    url: <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button">Mode</a>
+    external: true
