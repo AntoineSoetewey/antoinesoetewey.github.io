@@ -3,8 +3,8 @@
 
 html, html[data-theme="light"], {
   --light-text-color: hsl(0, 0%, 35%);
-  --main-background-color: #fff;
-  --main-text-color: mix(#000, #7a8288, 40%);
+  --main-background-color: hsl(0, 0%, 100%);
+  --main-text-color: hsl(206, 10%, 53%);
 }
 
 html[data-theme="dark"] {
