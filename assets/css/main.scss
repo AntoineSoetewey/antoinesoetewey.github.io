@@ -31,33 +31,33 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// html, html[data-theme="light"], {
-//   --text-color: hsl(0, 0%, 35%);
-//   --background-color: hsl(0, 5%, 95%);
-//   --text-color: hsl(0, 0%, 0%);
-// }
-
-// html[data-theme="dark"] {
-//   --text-color: hsl(0, 0%, 60%);
-//   --background-color: hsl(0, 0%, 10%);
-//   --text-color: hsl(0, 10%, 80%);
-// }
-
-// @media (prefers-color-scheme: dark) {
-//   html {
-//     content: "dark";
-//   }
-// }
-
 html, html[data-theme="light"], {
-  --text-color: #1f1f1f !important;
-  --background-color: white !important;
+  --text-color: hsl(0, 0%, 35%);
+  --background-color: hsl(0, 5%, 95%);
+  --text-color: hsl(0, 0%, 0%);
 }
 
 html[data-theme="dark"] {
-  --text-color: #a8a8a8 !important;
-  --background-color: #121212 !important;
+  --text-color: hsl(0, 0%, 60%);
+  --background-color: hsl(0, 0%, 10%);
+  --text-color: hsl(0, 10%, 80%);
 }
+
+@media (prefers-color-scheme: dark) {
+  html {
+    content: "dark";
+  }
+}
+
+// html, html[data-theme="light"], {
+//   --text-color: #1f1f1f !important;
+//   --background-color: white !important;
+// }
+
+// html[data-theme="dark"] {
+//   --text-color: #a8a8a8 !important;
+//   --background-color: #121212 !important;
+// }
 
 // body {
 //   background: var(--background-color);
