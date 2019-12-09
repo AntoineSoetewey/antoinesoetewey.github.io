@@ -37,11 +37,11 @@
 //   --text-color: hsl(0, 0%, 0%);
 // }
 
-html[data-theme="dark"] {
-  --text-color: hsl(0, 0%, 60%);
-  --background-color: hsl(0, 0%, 10%);
-  --text-color: hsl(0, 10%, 80%);
-}
+// html[data-theme="dark"] {
+//   --text-color: hsl(0, 0%, 60%);
+//   --background-color: hsl(0, 0%, 10%);
+//   --text-color: hsl(0, 10%, 80%);
+// }
 
 @media (prefers-color-scheme: dark) {
   html {
@@ -49,17 +49,19 @@ html[data-theme="dark"] {
   }
 }
 
-// html, html[data-theme="light"], {
-//   --text-color: #1f1f1f !important;
-//   --background-color: white !important;
-// }
-
-// html[data-theme="dark"] {
-//   --text-color: #a8a8a8 !important;
-//   --background-color: #121212 !important;
-// }
-
-// body {
-//   background: var(--background-color);
-//   color: var(--text-color);
-// }
+html[data-theme="dark"] {
+  background-color: #171717 !important;
+}
+html[data-theme="dark"] {
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
+  -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
+}
+body {
+  background-color: #FFF !important;
+}
+img,
+video,
+body * [style*="background-image"] {
+  filter: hue-rotate(180deg) contrast(100%) invert(100%);
+  -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
+}
