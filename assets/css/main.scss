@@ -67,7 +67,20 @@ html[data-theme="dark"] {
 // }
 
 // @media (prefers-color-scheme: dark) {
-//   html {
-//     content: "dark";
-//   }
+  // html {
+  //   content: "dark";
+  // }
 // }
+
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+  }
+  img:hover {
+    opacity: 1;
+  }
+  html {
+    content: "dark";
+  }
+}
