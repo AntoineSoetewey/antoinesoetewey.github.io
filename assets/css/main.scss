@@ -31,11 +31,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-html, html[data-theme="light"], {
-  --text-color: hsl(0, 0%, 35%);
-  --background-color: hsl(0, 5%, 95%);
-  --text-color: hsl(0, 0%, 0%);
-}
+// html, html[data-theme="light"], {
+//   --text-color: hsl(0, 0%, 35%);
+//   --background-color: hsl(0, 5%, 95%);
+//   --text-color: hsl(0, 0%, 0%);
+// }
 
 html[data-theme="dark"] {
   --text-color: hsl(0, 0%, 60%);
