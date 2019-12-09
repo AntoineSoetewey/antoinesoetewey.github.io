@@ -23,3 +23,5 @@ main:
 
   - title: "Mode"
     url: <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button">Mode</a>
+
+    <i class="fas fa-adjust"></i>
