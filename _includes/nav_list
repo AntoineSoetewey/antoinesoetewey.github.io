@@ -44,9 +44,11 @@
     {% endfor %}
 
     <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="fas fa-adjust">Mode1</a>
+    test1
 
   </ul>
 
 <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="fas fa-adjust">Mode2</a>
+test2
 
 </nav>
