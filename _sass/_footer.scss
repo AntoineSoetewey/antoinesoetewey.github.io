@@ -23,7 +23,6 @@
           animation-delay: 0.45s;
   background-color: var(--main-background-color); /* $lighter-gray; */
   border-top: 0px solid $light-gray;
-  font-size: $type-size-7;
 
   footer {
     @include clearfix;
@@ -41,6 +40,7 @@
   a {
     color: var(--main-text-color); /* inherit; */
     text-decoration: none;
+    font-size: $type-size-7;
 
     &:hover {
       text-decoration: underline;
