@@ -167,7 +167,9 @@
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: #fff;
+  // background: #fff;
+  color: var(--main-text-color);
+  background: var(--main-background-color);
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
@@ -218,8 +220,8 @@
 
   li {
     white-space: nowrap;
-    color: var(--main-text-color);
-    background: var(--main-background-color);
+    // color: var(--main-text-color);
+    // background: var(--main-background-color);
   }
 
   a {
