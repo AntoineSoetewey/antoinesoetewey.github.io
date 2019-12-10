@@ -94,7 +94,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: var(--main-background-color); /* $primary-color; */
       }
 
       &.disabled {
@@ -234,7 +234,8 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        /* background: mix(#fff, $primary-color, 50%); */
+        background: var(--main-background-color);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
