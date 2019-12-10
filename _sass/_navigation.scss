@@ -202,7 +202,7 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
-    border-radius: 25px;
+    border-radius: $border-radius;
   }
 
   .visible-links {
