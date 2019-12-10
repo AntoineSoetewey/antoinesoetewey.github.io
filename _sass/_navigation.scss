@@ -166,7 +166,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
+  border-top: 0px solid $border-color;
 }
 
 
@@ -301,7 +301,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 0px solid $border-color;
 
       &:last-child {
         border-bottom: none;
@@ -364,7 +364,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 0px solid $border-color;
 }
 
 
@@ -405,7 +405,7 @@
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 0px solid $border-color;
 
     &:hover {
       color: #000;
