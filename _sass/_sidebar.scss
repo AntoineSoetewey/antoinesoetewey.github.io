@@ -229,6 +229,8 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    color: var(--main-text-color);
+    background: var(--main-background-color);
 
     &:hover {
       text-decoration: underline;
