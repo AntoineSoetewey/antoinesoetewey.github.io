@@ -11,6 +11,8 @@ A list of all the pages found on the site. If you cannot find what you are looki
 
 <a href="https://www.antoinesoetewey.com/">About</a>
 
+<a href="https://www.antoinesoetewey.com/rdv/">Appointment</a>
+
 <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
 
 <a href="https://www.antoinesoetewey.com/cv/">CV</a>
