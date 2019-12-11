@@ -81,7 +81,8 @@ select {
   width: 100%;
   padding: 0.25em;
   margin-bottom: 0.5em;
-  color: $text-color;
+  // color: $text-color;
+  color: var(--main-text-color);
   // background-color: #fff;
   background-color: var(--main-background-color);
   border: 1px solid mix(#fff, #000, 80%);
