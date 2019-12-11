@@ -39,41 +39,41 @@ I am a PhD student in statistics at Université catholique de Louvain (UCLouvain
 <a name="education"></a>
 ## Education
 
-2017-
+2017-:
 __PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank" rel="noopener">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a> (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
 
-2015-16
+2015-16:
 __MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank" rel="noopener">978-3659660801</a>
 
-2013-15
+2013-15:
 __MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Jo Swinnen)
 
-Aug-Dec 2014
+Aug-Dec 2014:
 __Extended Master in Economics, Faculty Exchange__ University of Illinois at Urbana-Champaign
 
-2010-13
+2010-13:
 __BSc in Economics and Management Sciences, minor in Economics__ Université catholique de Louvain
 
 <a name="professional-experience"></a>
 ## Professional Experience
 
-2017- 
+2017-:
 __[Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics__ Université catholique de Louvain
 * Assistant for several courses in statistics and probability (Bachelor & Master course level)
 
-2016-17 
+2016-17:
 __Data Scientist__ Business & Decision
 * Gartner-recognized leader in Data & Analytics
 * Followed several trainings focusing on technical and soft skills: R, Tableau, SAS, SQL, Python, data modelling, consulting skills, project management
 * Involved in several projects at the client site, focusing on data science and data visualization
 
-Apr-Jul 2015 
+Apr-Jul 2015:
 __European Public Affairs Intern__ BNP Paribas
 * Understood the impact of changes in legislation on a supranational organization
 * Established networks effectively, both internally (business experts and senior management) and externally (European institutions and commercial organizations)
 * Familiarized myself with the economic, legal, political and social factors behind key texts of legislation
 
-Jan-Mar 2015 
+Jan-Mar 2015:
 __Audit Intern__ Deloitte Luxembourg
 * Specialized in investment funds and banks
 * Gained hands-on experience and built a wide variety of business knowledge by assisting in external audits for the clients
@@ -82,11 +82,11 @@ __Audit Intern__ Deloitte Luxembourg
 <a name="volunteer-experience"></a>
 ## Volunteer Experience
 
-2019- 
+2019-:
 __Private Tutor in Statistics and R__
 * See my profiles and testimonials from past students on <a href="https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-econometrie-universitaires.html" target="_blank" rel="noopener">Superprof</a> and <a href="https://listminut.be/fr/listworkers/63076-Antoine-S" target="_blank" rel="noopener">ListMinut</a>
 
-2015- 
+2015-:
 __International Tennis Chair Umpire (White Badge Certification)__ International Tennis Federation
 * Developing leadership skills, strong communication, and teamwork through experiential learning under the guidance of internationally certified umpires
 * Augmenting critical insight into intrapersonal and interpersonal skills by a professional management of difficult situations in matches
