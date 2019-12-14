@@ -26,12 +26,12 @@ body { margin: 0; }
 
 ::-moz-selection {
   color: var(--main-text-color); /* #fff; */
-  background: $primary-color; /* #000; */
+  background: $light-gray; /* #000; */
 }
 
 ::selection {
   color: var(--main-text-color); /* #fff; */
-  background: $primary-color; /* #000; */
+  background: $light-gray; /* #000; */
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
