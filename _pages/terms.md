@@ -49,6 +49,6 @@ All original content (e.g. articles, blog posts, codes, files, illustrations, ar
 
 ### Attribution
 
-If you're inclined to give credit --- a link back to the source attributed to either [Antoine Soetewey](https://www.antoinesoetewey.com/) or [antoinesoetewey.com](https://www.antoinesoetewey.com/) is good enough for me. Talking about credits, thanks [Michael Rose](https://mademistakes.com) for this page and your template.
+If you're inclined to give credit --- a link back to the source attributed to either [Antoine Soetewey](https://www.antoinesoetewey.com/) or [antoinesoetewey.com](https://www.antoinesoetewey.com/) is good enough for me. Talking about credits, thanks <a href="https://mademistakes.com" target="_blank" rel="noopener">Michael Rose</a> for this page and your template.
 
 <!-- *Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}* -->
