@@ -27,6 +27,7 @@
   &:hover {
     background-color: var(--main-background-color); /* mix(white, #000, 20%); */
     color: $masthead-link-color-hover;
+    border-color: $masthead-link-color-hover;
   }
 
   .icon {
@@ -58,6 +59,7 @@
     background-color: var(--main-background-color);
 
     &:hover {
+      background-color: var(--main-background-color);
       // color: #fff !important;
       color: $masthead-link-color-hover;
       border-color: $masthead-link-color-hover;
