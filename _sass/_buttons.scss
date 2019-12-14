@@ -26,6 +26,7 @@
 
   &:hover {
     background-color: var(--main-background-color); /* mix(white, #000, 20%); */
+    color: $primary-color
   }
 
   .icon {
