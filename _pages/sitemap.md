@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: /p/site-map.html
 ---
 
-A list of all the pages found on the site. If you cannot find what you are looking for, do not hesitate to <a href="http://www.antoinesoetewey.com/contact/">contact me</a>. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of all the pages found on the site (by alphabetical order). If you cannot find what you are looking for, do not hesitate to <a href="http://www.antoinesoetewey.com/contact/">contact me</a>. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
 
@@ -26,6 +26,8 @@ A list of all the pages found on the site. If you cannot find what you are looki
 <a href="https://www.antoinesoetewey.com/software/">Software</a>
 
 <a href="https://www.antoinesoetewey.com/teaching/">Teaching</a>
+
+<a href="https://www.antoinesoetewey.com/terms/">Terms and policies</a>
 
 <a href="https://www.antoinesoetewey.com/thanks/">Thanks</a>
 
