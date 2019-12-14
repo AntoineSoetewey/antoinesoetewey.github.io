@@ -212,7 +212,8 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    // color: $github-color;
+    color: var(--main-text-color);
   }
 
   .fa-google-plus,
