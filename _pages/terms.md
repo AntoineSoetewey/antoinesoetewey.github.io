@@ -1,9 +1,6 @@
 ---
 permalink: /terms/
 title: "Terms and policies"
-date: 2016-08-26
-last_modified_at: 2019-02-06
-toc: true
 author_profile: true
 ---
 
