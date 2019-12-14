@@ -45,7 +45,7 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 
 ## License
 
-All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](https://www.antoinesoetewey.com/) is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you do not use it for commercial purposes without my prior written consent.
+All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](https://www.antoinesoetewey.com/) is released under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a> unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit and do not use it for commercial purposes without my prior written consent.
 
 ### Attribution
 
