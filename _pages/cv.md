@@ -90,7 +90,7 @@ __Private Tutor in Statistics and R__
 
 2019-:
 __Creator and author of the blog <a href="https://www.statsandr.com/" target="_blank" rel="noopener">www.statsandr.com</a>__
-* A blog about statistics and applications in R
+* A blog about statistics and its applications in R
 
 2015-:
 __International Tennis Chair Umpire (White Badge Certification)__ International Tennis Federation
