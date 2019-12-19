@@ -86,6 +86,10 @@ __Audit Intern__ Deloitte Luxembourg
 __Private Tutor in Statistics and R__
 * See my profiles and testimonials from past students on <a href="https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-econometrie-universitaires.html" target="_blank" rel="noopener">Superprof</a> and <a href="https://listminut.be/fr/listworkers/63076-Antoine-S" target="_blank" rel="noopener">ListMinut</a>
 
+2019-:
+__Creator and author of the blog <a href="https://www.statsandr.com/" target="_blank" rel="noopener">www.statsandr.com</a>__
+* A blog about statistics and applications in R
+
 2015-:
 __International Tennis Chair Umpire (White Badge Certification)__ International Tennis Federation
 * Developing leadership skills, strong communication, and teamwork through experiential learning under the guidance of internationally certified umpires
