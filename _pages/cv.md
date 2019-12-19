@@ -15,6 +15,8 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 |
 <i class="fas fa-link"></i> <a href="https://www.antoinesoetewey.com/">Homepage</a>
 |
+<i class="fas fa-link"></i> <a href="https://www.statsandr.com/" target="_blank" rel="noopener">Blog</a>
+|
 <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener">antoinesoetewey</a>
 |
 <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">AntoineSoetewey</a>
