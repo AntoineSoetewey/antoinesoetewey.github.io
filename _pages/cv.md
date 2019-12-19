@@ -102,18 +102,11 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 * Excel
 * SPSS
 * JMP
+* SAS (<a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank" rel="noopener">Certified Base Programmer</a>)
 * Tableau Desktop
 * LaTeX
-* Web development (Blogger, Shopify, WordPress)
+* Web development
 * HTML and CSS
-  
-### Intermediate
-
-* Python
-* SQL
-* Alteryx
-* SAS (<a href="https://www.youracclaim.com/badges/2f4f233e-138a-46e7-8b13-f32c8e6d6777/public_url" target="_blank" rel="noopener">Certified Base Programmer</a>)
-* QlikView
 
 <a name="associations"></a>
 ## Associations
