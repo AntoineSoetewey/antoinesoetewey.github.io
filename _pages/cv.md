@@ -101,8 +101,6 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 <a name="technical-skills"></a>
 ## Technical Skills
 
-### Advanced
-
 * R (RStudio, R Markdown, Shiny, Sweave)
 * <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub</a>
 * Excel
