@@ -144,11 +144,12 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
-* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
-* <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener">ResearchGate</a>
-* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener">LinkedIn</a>
-* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub</a>
+* <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/"> Contact</a>
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank" rel="noopener"> Google Scholar</a>
+* <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener"> ResearchGate</a>
+* <i class="fas fa-link"></i> <a href="https://www.statsandr.com/" target="_blank" rel="noopener"> Blog</a>
+* <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener"> LinkedIn</a>
+* <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener"> GitHub</a>
 
 See also a visual <a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">timeline of my CV</a> made with R.
 
