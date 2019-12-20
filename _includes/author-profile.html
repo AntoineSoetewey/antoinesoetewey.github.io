@@ -32,6 +32,7 @@
         <li><i class="fas fa-briefcase" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
         <li><a href="https://www.antoinesoetewey.com/contact/"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</a></li>
+        <li><a href="https://www.statsandr.com/" target="_blank" rel="noopener"><i class="fas fa-link" aria-hidden="true"></i> Blog</a></li>
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -50,7 +51,6 @@
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
-        <li><a href="https://www.statsandr.com/" target="_blank" rel="noopener"><i class="fas fa-link" aria-hidden="true"></i> Blog</a></li>
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
