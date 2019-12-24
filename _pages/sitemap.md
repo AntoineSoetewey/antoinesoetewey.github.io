@@ -13,6 +13,8 @@ A list of all the pages found on the site (by alphabetical order). If you cannot
 
 <a href="https://www.antoinesoetewey.com/rdv/">Appointment</a>
 
+<a href="https://www.statsandr.com/" target="_blank" rel="noopener">Blog</a>
+
 <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
 
 <a href="https://www.antoinesoetewey.com/cv/">CV</a>
