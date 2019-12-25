@@ -35,13 +35,26 @@ Third-party advertisers may also place and read cookies on your browser and/or u
 
 If you wish to <a href="https://cookies.insites.com/disable-cookies/" target="_blank" rel="noopener">disable cookies</a>, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-<!-- #### Amazon
+#### Amazon
 
-Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. Read [Amazon's Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496). -->
+Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. Read <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" target="_blank" rel="noopener">Amazon's Privacy Notice</a>.
 
 #### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Read <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">Google's Privacy Policy</a>.
+
+## Disclosure policy
+
+I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I will get a percentage of that sale.
+
+What this means for you:
+
+* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+* I do not and will not recommend a product just for the sake of making money.
+* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
+* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
+
+Just like this website, my disclosure policy is a work in progress. As the revenue streams evolve, so will this page.
 
 ## License
 
