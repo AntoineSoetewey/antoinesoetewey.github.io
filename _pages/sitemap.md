@@ -57,6 +57,6 @@ A list of all the pages found on the site (by alphabetical order). If you cannot
 
 <a href="https://antoinesoetewey.shinyapps.io/word-cloud/" target="_blank" rel="noopener">Word cloud</a>
 
-<li><a href="http://www.antoinesoetewey.com/files/visited-places.html" target="_blank" rel="noopener">World map of visited countries</a></li>
+<a href="http://www.antoinesoetewey.com/files/visited-places.html" target="_blank" rel="noopener">World map of visited countries</a>
 
 <a href="https://www.antoinesoetewey.com/files/years-of-life-lost-yll.pdf">YLL package on CRAN</a>
