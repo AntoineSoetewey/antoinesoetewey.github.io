@@ -35,19 +35,19 @@ A list of all the pages found on the site (by alphabetical order). If you cannot
 
 <h2>Files</h2>
 
-<a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf">Abstract PhD thesis in biostatistics</a>
+<a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank" rel="noopener">Abstract PhD thesis in biostatistics</a>
 
 <a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/" target="_blank" rel="noopener">A practical guide on asset allocation</a>
 
-<a href="https://www.antoinesoetewey.com/files/booklist.html">Booklist</a>
+<a href="https://www.antoinesoetewey.com/files/booklist.html" target="_blank" rel="noopener">Booklist</a>
 
-<a href="https://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html">CV timeline</a>
+<a href="https://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">CV timeline</a>
 
-<a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">Master thesis in Econometrics</a>
+<a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">Master thesis in Econometrics</a>
 
-<a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf">Master thesis in Economics</a>
+<a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">Master thesis in Economics</a>
 
-<a href="https://www.antoinesoetewey.com/files/Poster_RSSB_2018.pdf">Poster RSSB 2018</a>
+<a href="https://www.antoinesoetewey.com/files/Poster_RSSB_2018.pdf" target="_blank" rel="noopener">Poster RSSB 2018</a>
 
 <a href="https://antoinesoetewey.shinyapps.io/statistics-101/" target="_blank" rel="noopener">Statistics 101</a>
 
@@ -59,4 +59,4 @@ A list of all the pages found on the site (by alphabetical order). If you cannot
 
 <a href="http://www.antoinesoetewey.com/files/visited-places.html" target="_blank" rel="noopener">World map of visited countries</a>
 
-<a href="https://www.antoinesoetewey.com/files/years-of-life-lost-yll.pdf">YLL package on CRAN</a>
+<a href="https://www.antoinesoetewey.com/files/years-of-life-lost-yll.pdf" target="_blank" rel="noopener">YLL package on CRAN</a>
