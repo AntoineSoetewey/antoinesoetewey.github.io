@@ -4,6 +4,7 @@ permalink: /rdv/
 author_profile: true
 redirect_from:
   - /RDV
+  - /rendez-vous
 ---
 
 Si vous désirez prendre rendez-vous, veuillez <a href="https://antoinesoetewey.as.me/" target="_blank" rel="noopener">cliquer ici</a>.
