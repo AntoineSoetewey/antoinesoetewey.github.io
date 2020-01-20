@@ -12,4 +12,4 @@ Best,
 
 Antoine Soetewey
 
-[Submit another form](https://www.antoinesoetewey.com/contact/)
+[Submit another form](/contact/)
