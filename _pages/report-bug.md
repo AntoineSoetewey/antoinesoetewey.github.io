@@ -4,7 +4,6 @@ permalink: /report-bug/
 author_profile: true
 ---
 
-
 You can [contact me](/contact/) or report bugs <a href="https://github.com/AntoineSoetewey/antoinesoetewey.github.io/issues" target="_blank" rel="noopener">here</a>.
 
 Thanks in advance for your help!
