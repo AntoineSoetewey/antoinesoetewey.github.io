@@ -10,13 +10,13 @@ All content provided is for informational purposes only. The articles and posts 
 
 ## Privacy policy
 
-At [antoinesoetewey.com](https://www.antoinesoetewey.com/), the privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At [antoinesoetewey.com](/), the privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
 ### Log files
 
-Like many other websites, [antoinesoetewey.com](https://www.antoinesoetewey.com/) uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Like many other websites, [antoinesoetewey.com](/) uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
 - Internet Protocol addresses (IP)
 - Types of browser
@@ -29,9 +29,9 @@ All of this information is not linked to anything that is personally identifiabl
 
 ### Cookies and web beacons
 
-[antoinesoetewey.com](https://www.antoinesoetewey.com/) uses a cookie to trigger the loading of cached CSS on future page loads.
+[antoinesoetewey.com](/) uses a cookie to trigger the loading of cached CSS on future page loads.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. [antoinesoetewey.com](https://www.antoinesoetewey.com/) has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. [antoinesoetewey.com](/) has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
 If you wish to <a href="https://cookies.insites.com/disable-cookies/" target="_blank" rel="noopener">disable cookies</a>, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
@@ -58,10 +58,10 @@ Just like this website, my disclosure policy is a work in progress. As the reven
 
 ## License
 
-All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](https://www.antoinesoetewey.com/) is released under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a> unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit and do not use it for commercial purposes without my prior written consent.
+All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](/) is released under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a> unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit and do not use it for commercial purposes without my prior written consent.
 
 ### Attribution
 
-If you're inclined to give credit --- a link back to the source attributed to either [Antoine Soetewey](https://www.antoinesoetewey.com/) or [antoinesoetewey.com](https://www.antoinesoetewey.com/) is good enough for me. Talking about credits, thanks <a href="https://mademistakes.com" target="_blank" rel="noopener">Michael Rose</a> for this page and your template.
+If you're inclined to give credit --- a link back to the source attributed to either [Antoine Soetewey](/) or [antoinesoetewey.com](/) is good enough for me. Talking about credits, thanks <a href="https://mademistakes.com" target="_blank" rel="noopener">Michael Rose</a> for this page and your template.
 
 <!-- *Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}* -->
