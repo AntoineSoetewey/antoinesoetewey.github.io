@@ -11,9 +11,9 @@ redirect_from:
 PhD Student and Teaching Assistant in Statistics at UCLouvain
 
 <div id="webaddress">
-<i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/">Contact</a>
+<i class="fas fa-envelope"></i> <a href="/contact/">Contact</a>
 |
-<i class="fas fa-link"></i> <a href="https://www.antoinesoetewey.com/">Homepage</a>
+<i class="fas fa-link"></i> <a href="/">Homepage</a>
 |
 <i class="fas fa-link"></i> <a href="https://www.statsandr.com/" target="_blank" rel="noopener">Blog</a>
 |
@@ -36,19 +36,19 @@ PhD Student and Teaching Assistant in Statistics at UCLouvain
 <a name="currently"></a>
 ## Currently
 
-I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank" rel="noopener">ISBA</a>). My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am <a href="http://www.antoinesoetewey.com/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level and I provide trainings and workshops in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
+I am a PhD student in statistics at Université catholique de Louvain (UCLouvain) in Belgium, at the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank" rel="noopener">ISBA</a>). My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am <a href="/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level and I provide trainings and workshops in statistics and R programming for UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
 
 <a name="education"></a>
 ## Education
 
 2017-:
-__PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_abstract_EN.pdf" target="_blank" rel="noopener">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a> (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
+__PhD Student in Statistics__ Université catholique de Louvain. Thesis: <a href="/files/Thesis_abstract_EN.pdf" target="_blank" rel="noopener">_Life and Health Actuarial Pricing: a Biostatistics Approach_</a> (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
 
 2015-16:
-__MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="https://www.antoinesoetewey.com/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank" rel="noopener">978-3659660801</a>
+__MSc in Econometrics and Operations Research, specialisation in Econometrics__ Maastricht University. Thesis: <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">_Combining Professional and Survey Forecasts for Macroeconomic Data_</a> (supervisor: Dr. Nalan Basturk) | ISBN: <a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&ie=UTF8&qid=1483904672&sr=1-1" target="_blank" rel="noopener">978-3659660801</a>
 
 2013-15:
-__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="https://www.antoinesoetewey.com/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Jo Swinnen)
+__MSc in Economics__ Katholieke Universiteit Leuven. Thesis: <a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">_Negativity Bias and Framing Effect in Charity Donations: a Field Experiment_</a> (supervisor: Prof. Jo Swinnen)
 
 Aug-Dec 2014:
 __Extended Master in Economics, Faculty Exchange__ University of Illinois at Urbana-Champaign
@@ -60,7 +60,7 @@ __BSc in Economics and Management Sciences, minor in Economics__ Université cat
 ## Professional Experience
 
 2017-:
-__[Teaching Assistant](https://www.antoinesoetewey.com/teaching/) in Statistics__ Université catholique de Louvain
+__[Teaching Assistant](/teaching/) in Statistics__ Université catholique de Louvain
 * Assistant for several courses in statistics and probability (Bachelor & Master course level)
 
 2016-17:
@@ -121,14 +121,14 @@ __International Tennis Chair Umpire (White Badge Certification)__ International 
 <a name="presentations"></a>
 ## Presentations
 
-For a detailed list of presentations and talks see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/).
+For a detailed list of presentations and talks see [www.antoinesoetewey.com/research/](/research/).
 
 <!---
 <a name="publications"></a>
 ## Publications
 --->
 <!---
-For a detailed list of publications see [www.antoinesoetewey.com/research/](https://www.antoinesoetewey.com/research/).
+For a detailed list of publications see [www.antoinesoetewey.com/research/](/research/).
 --->
 
 <a name="languages"></a>
@@ -142,14 +142,14 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](http
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fas fa-envelope"></i> <a href="https://www.antoinesoetewey.com/contact/"> Contact</a>
+* <i class="fas fa-envelope"></i> <a href="/contact/"> Contact</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank" rel="noopener"> Google Scholar</a>
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener"> ResearchGate</a>
 * <i class="fas fa-link"></i> <a href="https://www.statsandr.com/" target="_blank" rel="noopener"> Blog</a>
 * <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener"> LinkedIn</a>
 * <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener"> GitHub</a>
 
-See also a visual <a href="http://www.antoinesoetewey.com/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">timeline of my CV</a> made with R.
+See also a visual <a href="/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">timeline of my CV</a> made with R.
 
 *Last updated: {{ site.time | date: '%B %Y' }}*
 
