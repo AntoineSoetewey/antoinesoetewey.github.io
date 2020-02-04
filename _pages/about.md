@@ -20,6 +20,6 @@ Prior to this PhD, I graduated in 2015 with a Master in Economics from KU Leuven
 
 In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world.<!-- This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.-->
 
-In my spare time I like to play sports, learn to <a href="/software/">code</a> and write about statistics and its applications in R through my <a href="/blog/">blog www.statsandr.com</a>. I also enjoy reading nonfiction <a href="/files/booklist.html" target="_blank" rel="noopener">books</a> on statistics, (behavioral) economics, business/management/investing/personal finance or psychology and <a href="/files/visited-places.html" target="_blank" rel="noopener">traveling around the globe</a>.
+In my spare time I like to play sports, learn to <a href="/software/">code</a> and write about statistics and its applications in R through my blog <a href="/blog/">www.statsandr.com</a>. I also enjoy reading nonfiction <a href="/files/booklist.html" target="_blank" rel="noopener">books</a> on statistics, (behavioral) economics, business/management/investing/personal finance or psychology and <a href="/files/visited-places.html" target="_blank" rel="noopener">traveling</a> around the globe.
 
 Do not hesitate to <a href="/contact/">contact me</a> if you have any questions or inquiries.
