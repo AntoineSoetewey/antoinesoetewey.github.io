@@ -146,6 +146,7 @@ For a detailed list of publications see [www.antoinesoetewey.com/research/](/res
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ" target="_blank" rel="noopener"> Google Scholar</a>
 * <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener"> ResearchGate</a>
 * <i class="fas fa-link"></i> <a href="https://www.statsandr.com/" target="_blank" rel="noopener"> Blog</a>
+* <i class="fab fa-medium-m"></i> <a href="https://medium.com/@ant.soetewey" target="_blank" rel="noopener"> Medium</a>
 * <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/antoinesoetewey/" target="_blank" rel="noopener"> LinkedIn</a>
 * <i class="fab fa-github"></i> <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener"> GitHub</a>
 
