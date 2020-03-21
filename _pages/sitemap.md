@@ -41,6 +41,8 @@ A list of all the pages found on the site (in alphabetical order). If you cannot
 
 <a href="/files/booklist.html" target="_blank" rel="noopener">Booklist</a>
 
+<a href="/files/coronavirus-dashboard.html" target="_blank" rel="noopener">Coronavirus dashboard: the case of Belgium</a>
+
 <a href="/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">CV timeline</a>
 
 <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">Master thesis in Econometrics</a>
