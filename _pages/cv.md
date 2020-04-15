@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "CV and resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
