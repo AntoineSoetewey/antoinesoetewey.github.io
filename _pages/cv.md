@@ -11,4 +11,4 @@ redirect_from:
 
 <br>
 
-Interested in how I made these? Check out the repo on [GitHub](https://github.com/AntoineSoetewey/cv).
+Interested in how I made these? Check out the repo on [GitHub](https://github.com/AntoineSoetewey/cv). *A special thanks to [Nick Strayer](http://nickstrayer.me/) for providing the template of this CV and resume.*
