@@ -43,7 +43,7 @@ A list of all the pages found on the site (in alphabetical order). If you cannot
 
 <a href="/files/coronavirus-dashboard.html" target="_blank" rel="noopener">Coronavirus dashboard: the case of Belgium</a>
 
-<a href="/cv.html" target="_blank" rel="noopener">CV</a>
+<a href="/cv.html" target="_blank" rel="noopener">CV</a> (in <a href="/cv.pdf" target="_blank" rel="noopener">PDF</a>)
 
 <a href="/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">CV timeline</a>
 
@@ -52,6 +52,8 @@ A list of all the pages found on the site (in alphabetical order). If you cannot
 <a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">Master thesis in Economics</a>
 
 <a href="/files/Poster_RSSB_2018.pdf" target="_blank" rel="noopener">Poster RSSB 2018</a>
+
+<a href="/resume.html" target="_blank" rel="noopener">Resume</a> (in <a href="/resume.pdf" target="_blank" rel="noopener">PDF</a>)
 
 <a href="https://antoinesoetewey.shinyapps.io/statistics-101/" target="_blank" rel="noopener">Statistics 101</a>
 
