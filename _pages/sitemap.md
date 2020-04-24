@@ -9,65 +9,17 @@ A list of all the pages found on the site (in alphabetical order). If you cannot
 
 <h2>Pages</h2>
 
-<a href="/">About</a>
-
-<a href="/rdv/">Appointment</a>
-
-<a href="/blog/">Blog</a>
-
-<a href="/contact/">Contact</a>
-
-<a href="/cv/">CV</a>
-
-<a href="/report-bug/">Report a bug</a>
-
-<a href="/research/">Research</a>
-
-<a href="/sitemap/">Sitemap</a>
-
-<a href="/software/">Software</a>
-
-<a href="/teaching/">Teaching</a>
-
-<a href="/terms/">Terms and policies</a>
-
-<a href="/thanks/">Thanks</a>
-
-<h2>Files</h2>
-
-<a href="/files/Thesis_abstract_EN.pdf" target="_blank" rel="noopener">Abstract PhD thesis in biostatistics</a>
-
-<a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/" target="_blank" rel="noopener">A practical guide on asset allocation</a>
-
-<a href="/files/booklist.html" target="_blank" rel="noopener">Booklist</a>
-
-<a href="/files/coronavirus-dashboard.html" target="_blank" rel="noopener">Coronavirus dashboard: the case of Belgium</a>
-
-<a href="/cv.html" target="_blank" rel="noopener">CV</a> (in <a href="/cv.pdf" target="_blank" rel="noopener">PDF</a>)
-
-<a href="/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">CV timeline</a>
-
 <ul>
-<li><a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf" target="_blank" rel="noopener">How can we predict the evolution of Covid-19 in Belgium?</a> (2020). UCLouvain, Belgium</li> 
-<li><a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf" target="_blank" rel="noopener">How can we predict the evolution of Covid-19 in Belgium?</a> (2020). UCLouvain, Belgium</li>  
+<li><a href="/">About</a></li> 
+<li><a href="/rdv/">Appointment</a></li> 
+<li><a href="/blog/">Blog</a></li> 
+<li><a href="/contact/">Contact</a></li> 
+<li><a href="/cv/">CV</a></li> 
+<li><a href="/report-bug/">Report a bug</a></li> 
+<li><a href="/research/">Research</a></li> 
+<li><a href="/sitemap/">Sitemap</a></li> 
+<li><a href="/software/">Software</a></li> 
+<li><a href="/teaching/">Teaching</a></li> 
+<li><a href="/terms/">Terms and policies</a></li> 
+<li><a href="/thanks/">Thanks</a></li> 
 </ul>
-
-<a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">Master thesis in Econometrics</a>
-
-<a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">Master thesis in Economics</a>
-
-<a href="/files/Poster_RSSB_2018.pdf" target="_blank" rel="noopener">Poster RSSB 2018</a>
-
-<a href="/resume.html" target="_blank" rel="noopener">Resume</a> (in <a href="/resume.pdf" target="_blank" rel="noopener">PDF</a>)
-
-<a href="https://antoinesoetewey.shinyapps.io/statistics-101/" target="_blank" rel="noopener">Statistics 101</a>
-
-<a href="https://antoinesoetewey.shinyapps.io/statistics-201/" target="_blank" rel="noopener">Statistics 201</a>
-
-<a href="https://antoinesoetewey.shinyapps.io/statistics-202/" target="_blank" rel="noopener">Statistics 202</a>
-
-<a href="https://antoinesoetewey.shinyapps.io/word-cloud/" target="_blank" rel="noopener">Word cloud</a>
-
-<a href="/files/visited-places.html" target="_blank" rel="noopener">World map of visited countries</a>
-
-<a href="/files/years-of-life-lost-yll.pdf" target="_blank" rel="noopener">YLL package on CRAN</a>
