@@ -47,6 +47,11 @@ A list of all the pages found on the site (in alphabetical order). If you cannot
 
 <a href="/files/CV_timeline_antoinesoetewey.html" target="_blank" rel="noopener">CV timeline</a>
 
+<ul>
+<li><a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf" target="_blank" rel="noopener">How can we predict the evolution of Covid-19 in Belgium?</a> (2020). UCLouvain, Belgium</li> 
+<li><a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf" target="_blank" rel="noopener">How can we predict the evolution of Covid-19 in Belgium?</a> (2020). UCLouvain, Belgium</li>  
+</ul>
+
 <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf" target="_blank" rel="noopener">Master thesis in Econometrics</a>
 
 <a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf" target="_blank" rel="noopener">Master thesis in Economics</a>
