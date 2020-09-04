@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antoine Soetewey"
 title_separator          : "-"
 name                     : &name "Antoine Soetewey"
-description              : &description "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain. Author of www.statsandr.com"
+description              : &description "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain. Author of statsandr.com"
 url                      : https://www.antoinesoetewey.com # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AntoineSoetewey/antoinesoetewey.github.io"
