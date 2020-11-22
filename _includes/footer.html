@@ -4,16 +4,18 @@
   <ul class="social-icons">
       <li><a title="Contact" href="/contact/"><i class="fas fa-envelope"></i> Contact</a></li>
       <li><a title="Blog" href="https://www.statsandr.com/"><i class="fas fa-link"></i> Blog</a></li>
+    {% if site.author.linkedin %}
       <li><a title="LinkedIn" href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin-in" aria-hidden="true"></i> LinkedIn</a></li>
+    {% endif %}
     {% if site.twitter.username %}
       <li><a title="Twitter" href="https://twitter.com/{{ site.twitter.username }}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a></li>
     {% endif %}
     <!---{% if site.facebook.username %}
       <li><a title="Facebook" href="https://facebook.com/{{ site.facebook.username }}" target="_blank" rel="noopener"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}--->
-    {% if site.author.github %}
+    <!---{% if site.author.github %}
       <li><a title="GitHub" href="http://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
+    {% endif %}--->
     {% if site.author.bitbucket %}
       <li><a title="Bitbucket" href="http://bitbucket.org/{{ site.author.bitbucket }}" target="_blank" rel="noopener"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
