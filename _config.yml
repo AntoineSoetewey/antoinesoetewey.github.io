@@ -71,7 +71,7 @@ social:
   links:
     - "https://www.linkedin.com/in/antoinesoetewey"
     - "https://github.com/AntoineSoetewey"
-    - "https://scholar.google.be/citations?hl=en&user=1P7ThwUAAAAJ"
+    - "https://scholar.google.com/citations?user=1P7ThwUAAAAJ"
     - "https://www.researchgate.net/profile/Antoine_Soetewey"
     - "https://www.instagram.com/antsoet/"
     - "https://twitter.com/statsandr"
@@ -93,7 +93,7 @@ author:
   location         : "Belgium"
   employer         : 
   university       : "UCLouvain"
-  googlescholar    : 
+  googlescholar    : "1P7ThwUAAAAJ"
   researchgate     : 
   pubmed           :
   email            : 
