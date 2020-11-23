@@ -34,7 +34,7 @@
         <li><a href="/contact/"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</a></li>
         <li><a href="https://www.statsandr.com/"><i class="fas fa-link" aria-hidden="true"></i> Blog</a></li>
       {% if author.medium %}
-        <li><a href="https://medium.com/{{ author.medium }}" target="_blank" rel="noopener"><i class="fab fa-medium-m"></i> Medium</a></li>
+        <li><a href="{{ author.medium }}" target="_blank" rel="noopener"><i class="fab fa-medium-m"></i> Medium</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
