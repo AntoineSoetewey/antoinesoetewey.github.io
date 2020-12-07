@@ -11,12 +11,12 @@ main:
 
   - title: "Blog"
     url: https://www.statsandr.com/
-
-  - title: "CV"
-    url: /cv/
         
   - title: "Software"
     url: /software/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Contact"
     url: /contact/
