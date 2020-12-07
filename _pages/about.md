@@ -23,6 +23,8 @@ Given my experience, I also support:
 
 Feel free to <a href="/contact/">contact me</a> if you need help in statistics for your academic or work related projects.
 
+<br>
+
 Prior to this PhD, I graduated in 2015 with a Master in Economics from KU Leuven and in 2016 with a Master in Econometrics from Maastricht University. You may see my <a href="/cv/">CV</a> to have a better overview of my academic and professional background.
 
 In May 2015, I became an international tennis chair umpire (White Badge certification). Since then, I am fortunate enough to work regularly as a chair or line umpire on major tennis events across the world.<!-- This position allows me to develop leadership and teamwork skills, and a strong communication thanks to the guidance of internationally certified umpires.-->
