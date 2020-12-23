@@ -12,7 +12,7 @@ A list of all the pages found on the site (in alphabetical order). If you cannot
 <ul>
 <li><a href="/">About</a></li> 
 <li><a href="/rdv/">Appointment</a></li> 
-<li><a href="https://www.statsandr.com/">Blog</a></li> 
+<li><a href="https://statsandr.com/">Blog</a></li> 
 <li><a href="/contact/">Contact</a></li> 
 <li><a href="/cv/">CV</a></li> 
 <li><a href="/report-bug/">Report a bug</a></li> 
