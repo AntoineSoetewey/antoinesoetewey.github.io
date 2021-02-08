@@ -14,7 +14,7 @@ redirect_from:
 
 Currently, I am a PhD student in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/fr/node/9330" target="_blank" rel="noopener">ISBA</a>). My research interests focus on survival analysis and bio-statistical procedures applied to cancer patients. More information can be found in my <a href="/research/">research projects</a>.
 
-In parallel with my doctoral thesis, I am <a href="/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level. I also provide trainings/workshops and consulting in statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Support in Methodology and Statistical Computing (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
+In parallel with my doctoral thesis, I am <a href="/teaching/">teaching assistant</a> for several courses in statistics and probability at bachelor and master's level. I also provide trainings/workshops and consulting in statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (<a href="http://www.uclouvain.be/smcs" target="_blank" rel="noopener">SMCS</a>).
 
 Given my experience, I also support:
 
